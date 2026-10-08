@@ -240,12 +240,6 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
     },
     {
-      "path": "fpv20-1.1.9-1.21~1.21.1.jar",
-      "sha256": "541d47bb8b65b6b03ec87a0e0a6c1861dff2709be66419891f5fa0654341cca6",
-      "size": 155732,
-      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/fpv20-1.1.9-1.21~1.21.1.jar"
-    },
-    {
       "path": "FuelInfo-2.1+1.21.jar",
       "sha256": "aaddbb630969255bd1480165220522071ac268c61019ae589adb129204f5b7c1",
       "size": 1149445,
@@ -471,7 +465,7 @@
       "path": "Resourcify (1.21.1-fabric)-1.8.5.jar",
       "sha256": "6e37e3de56174720cfab0d36c18fef85dd56a6955a0afac44e952b036b3de742",
       "size": 2625998,
-      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/Resourcify (1.21.1-fabric)-1.8.5.jar"
+      "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/tWL8XHWU/Resourcify%20%281.21.1-fabric%29-1.8.5.jar"
     },
     {
       "path": "SereneSeasons-fabric-1.21.1-10.1.0.1.jar",
