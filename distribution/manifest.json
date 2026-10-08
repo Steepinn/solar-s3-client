@@ -240,6 +240,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
     },
     {
+      "path": "fpv20-1.1.9-1.21~1.21.1.jar",
+      "sha256": "541d47bb8b65b6b03ec87a0e0a6c1861dff2709be66419891f5fa0654341cca6",
+      "size": 155732,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/fpv20-1.1.9-1.21~1.21.1.jar"
+    },
+    {
       "path": "FuelInfo-2.1+1.21.jar",
       "sha256": "aaddbb630969255bd1480165220522071ac268c61019ae589adb129204f5b7c1",
       "size": 1149445,
