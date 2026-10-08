@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791478507,
+  "updated_at": 1791478579,
   "items": [
     {
       "id": "44ab5931",
@@ -18,7 +18,7 @@
       "id": "e0cab5fe",
       "name": "ПИПИКАКА",
       "file": "Resourcify (1.21.1-fabric)-1.8.0.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/Resourcify%2520%25281.21.1-fabric%2529-1.8.0.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/Resourcify%252520%2525281.21.1-fabric%252529-1.8.0.jar",
       "sha256": "b59347eebbec340bf2a746cca6f5f9f8e5efad90b8083c233ae6c749c88b28bb",
       "description": "пипипопа",
       "recommended_by": "Steepy3",
