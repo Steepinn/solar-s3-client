@@ -1,16 +1,28 @@
 {
   "schema": 1,
-  "updated_at": 1791478017,
+  "updated_at": 1791478507,
   "items": [
     {
       "id": "44ab5931",
       "name": "Spatial GUI 1.5",
       "file": "spatial-gui-1.5+1.21.1-fabric-1.5.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/spatial-gui-1.5+1.21.1-fabric-1.5.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/spatial-gui-1.5%2B1.21.1-fabric-1.5.jar",
       "sha256": "b2e1d7058b21f6b79ccbadb603031fbe510d415d47cd5f2696bed39cd670b7cc",
       "description": "Мод, который позволяет делать классные 3д интрфейс-менюшки.",
       "recommended_by": "Steepy3",
       "added_at": 1791428960,
+      "image": "",
+      "auto_install": true
+    },
+    {
+      "id": "e0cab5fe",
+      "name": "ПИПИКАКА",
+      "file": "Resourcify (1.21.1-fabric)-1.8.0.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/Resourcify%2520%25281.21.1-fabric%2529-1.8.0.jar",
+      "sha256": "b59347eebbec340bf2a746cca6f5f9f8e5efad90b8083c233ae6c749c88b28bb",
+      "description": "пипипопа",
+      "recommended_by": "Steepy3",
+      "added_at": 1791478507,
       "image": "",
       "auto_install": true
     }
