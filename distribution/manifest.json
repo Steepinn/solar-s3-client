@@ -408,12 +408,6 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/particle-rain-3.0.5.jar"
     },
     {
-      "path": "PassiveSkillTree-Fabric-1.21.1-0.7.6+c-solar-arclight.jar",
-      "sha256": "1fcb19492326f443c295a2e0d6194422b981b000e4fe06bb03aec57eb30935b8",
-      "size": 2011804,
-      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/PassiveSkillTree-Fabric-1.21.1-0.7.6+c-solar-arclight.jar"
-    },
-    {
       "path": "Ping-Wheel-1.12.2-fabric-1.21.1.jar",
       "sha256": "9ba63ca5f33c86d0ce3aec2b04fafcc2fbcb8e705e46a7be20ff66382331c3e3",
       "size": 152703,
@@ -528,12 +522,6 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/sodium-fabric-0.8.12+mc1.21.1.jar"
     },
     {
-      "path": "solar_ui_ru-1.0.8.jar",
-      "sha256": "a3f1a686574f3754b5fc716f24d90655f408ae767046c21420f57e8deca4a396",
-      "size": 210683,
-      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/solar_ui_ru-1.0.8.jar"
-    },
-    {
       "path": "solar_ui_ru-1.0.9.jar",
       "sha256": "5a9d08b032eacc8d1fade445976c29a04ea9fe5434e537d21d46451a89120178",
       "size": 52509,
@@ -562,6 +550,12 @@
       "sha256": "406c971edd571820d75fbe480dab24bd2c92764ea7472955aff75584c777b0e6",
       "size": 18785,
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/solarhub-1.0.6.jar"
+    },
+    {
+      "path": "solartideocean-1.0.1.jar",
+      "sha256": "b54994a9cda84727c0e8816a3d37a980887806564c1e2725f54e71b6f51ed6e8",
+      "size": 4256,
+      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/solartideocean-1.0.1.jar"
     },
     {
       "path": "solartitle-1.0.6.jar",
@@ -612,6 +606,12 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/untitledduckmod-1.6.0-fabric-1.21.1.jar"
     },
     {
+      "path": "vcinteraction-fabric-1.21.1-1.0.8.jar",
+      "sha256": "692ff228cdd397e5690f09881704b6c11e655b609dd0b17fc0a99846dc232a24",
+      "size": 449735,
+      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/vcinteraction-fabric-1.21.1-1.0.8.jar"
+    },
+    {
       "path": "voicechat-fabric-1.21.1-2.6.12.jar",
       "sha256": "24950f92c4afdcbd39f1421320d9daa2261c074589885a41e88b8944462fc29a",
       "size": 5341263,
@@ -630,6 +630,12 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/watermedia-2.1.37.jar"
     },
     {
+      "path": "watermedia-3.0.0.23.jar",
+      "sha256": "c3baefc8fbb005e349b3424f7df8f9d89b18524d5f7a358c6df73ca5e1d98b38",
+      "size": 3625444,
+      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/watermedia-3.0.0.23.jar"
+    },
+    {
       "path": "watervision-FB-mc1.21.1-v0.1.0-alpha.jar",
       "sha256": "e60f274d66309909d4fb7cb610df4a31aed76b15fd4f37aad79461abcc82ba20",
       "size": 82210,
@@ -640,6 +646,12 @@
       "sha256": "0b5d39d2b032a5f190d252ec3465af57cd7e37cd158c9eaa5cd7c8f73bccd905",
       "size": 90965840,
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/webcam-fabric-4.4.0-1.21.1.jar"
+    },
+    {
+      "path": "wiretap-1.3.0+1.21.1.fabric.jar",
+      "sha256": "2ce5b02933792b7e8decebb87a4e794d3a98db1ca310be50dceab6d48c93c586",
+      "size": 398644,
+      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/wiretap-1.3.0+1.21.1.fabric.jar"
     },
     {
       "path": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
