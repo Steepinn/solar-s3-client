@@ -1,19 +1,7 @@
 {
   "schema": 1,
-  "updated_at": 1791428318,
+  "updated_at": 1791428321,
   "items": [
-    {
-      "id": "cdebbf77",
-      "name": "авыаыва",
-      "file": "xercamod-1.20.1-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/xercamod-1.20.1-1.0.0.jar",
-      "sha256": "c91ece3db2d2acf1a4ad11877421712aab97b191b0fc31d3638de30b410d9c65",
-      "description": "фывфыв",
-      "recommended_by": "Steepy3",
-      "added_at": 1791428113,
-      "image": "",
-      "auto_install": true
-    },
     {
       "id": "3a4cb44e",
       "name": "Спатиал ГУИ",
