@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791477573,
+  "updated_at": 1791477967,
   "items": [
     {
       "id": "44ab5931",
@@ -11,6 +11,18 @@
       "description": "Мод, который позволяет делать классные 3д интрфейс-менюшки.",
       "recommended_by": "Steepy3",
       "added_at": 1791428960,
+      "image": "",
+      "auto_install": true
+    },
+    {
+      "id": "162cfd4f",
+      "name": "какафки",
+      "file": "Resourcify (1.21.1-fabric)-1.8.0.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/Resourcify (1.21.1-fabric)-1.8.0.jar",
+      "sha256": "b59347eebbec340bf2a746cca6f5f9f8e5efad90b8083c233ae6c749c88b28bb",
+      "description": "что бы росли большие пиписи",
+      "recommended_by": "Steepy3",
+      "added_at": 1791477967,
       "image": "",
       "auto_install": true
     }
