@@ -624,12 +624,6 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/waterframes-FABRIC-mc1.21.1-v2.1.22.jar"
     },
     {
-      "path": "watermedia-2.1.37.jar",
-      "sha256": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389",
-      "size": 37046674,
-      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/watermedia-2.1.37.jar"
-    },
-    {
       "path": "watermedia-3.0.0.23.jar",
       "sha256": "c3baefc8fbb005e349b3424f7df8f9d89b18524d5f7a358c6df73ca5e1d98b38",
       "size": 3625444,
@@ -652,6 +646,12 @@
       "sha256": "2ce5b02933792b7e8decebb87a4e794d3a98db1ca310be50dceab6d48c93c586",
       "size": 398644,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/wiretap-1.3.0+1.21.1.fabric.jar"
+    },
+    {
+      "path": "wm_binaries-3.0.0-beta.2.jar",
+      "sha256": "2fab2ce45fbbf2e3e1bee1a2b5f89021eb15b5212f769b463632421af9a39a09",
+      "size": 179378124,
+      "url": "https://cdn.modrinth.com/data/4997XcoK/versions/qDQ3x3sU/wm_binaries-3.0.0-beta.2.jar"
     },
     {
       "path": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
