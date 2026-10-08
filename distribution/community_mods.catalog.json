@@ -1,18 +1,5 @@
 {
   "schema": 1,
-  "updated_at": 1791428321,
-  "items": [
-    {
-      "id": "3a4cb44e",
-      "name": "Спатиал ГУИ",
-      "file": "spatial-gui-1.5+1.21.1-fabric-1.5.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/spatial-gui-1.5+1.21.1-fabric-1.5.jar",
-      "sha256": "b2e1d7058b21f6b79ccbadb603031fbe510d415d47cd5f2696bed39cd670b7cc",
-      "description": "Нада",
-      "recommended_by": "Steepy3",
-      "added_at": 1791427946,
-      "image": "",
-      "auto_install": true
-    }
-  ]
+  "updated_at": 1791428324,
+  "items": []
 }
