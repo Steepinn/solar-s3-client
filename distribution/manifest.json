@@ -522,10 +522,10 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/sodium-fabric-0.8.12+mc1.21.1.jar"
     },
     {
-      "path": "solar_ui_ru-1.0.9.jar",
-      "sha256": "5a9d08b032eacc8d1fade445976c29a04ea9fe5434e537d21d46451a89120178",
-      "size": 52509,
-      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/solar_ui_ru-1.0.9.jar"
+      "path": "solar_ui_ru-1.0.10.jar",
+      "sha256": "69bd8ceeac0bfb025b89e1b66fc150755b20162efe3d0bea0a5e7aedf7e3ba3f",
+      "size": 1863866,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.10.jar"
     },
     {
       "path": "solarauth-1.0.19.jar",
