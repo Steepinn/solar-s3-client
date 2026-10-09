@@ -624,12 +624,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/watermedia-2.1.37.jar"
     },
     {
-      "path": "watermedia-3.0.0.23.jar",
-      "sha256": "c3baefc8fbb005e349b3424f7df8f9d89b18524d5f7a358c6df73ca5e1d98b38",
-      "size": 3625444,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/watermedia-3.0.0.23.jar"
-    },
-    {
       "path": "watervision-FB-mc1.21.1-v0.1.0-alpha.jar",
       "sha256": "e60f274d66309909d4fb7cb610df4a31aed76b15fd4f37aad79461abcc82ba20",
       "size": 82210,
