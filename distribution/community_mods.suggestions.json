@@ -1,5 +1,19 @@
 {
   "schema": 1,
-  "updated_at": 0,
-  "suggestions": []
+  "updated_at": 1791587419,
+  "suggestions": [
+    {
+      "id": "ee41b988-6",
+      "nick": "Steepy3",
+      "name": "фабрик",
+      "description": "фывфыв",
+      "url": "",
+      "note": "вфыв",
+      "jar_file": "fabric-api-0.116.14+1.21.1.jar",
+      "status": "pending",
+      "created_at": 1791587415,
+      "jar_path": "distribution/suggestion-jars/ee41b988-6_fabric-api-0.116.14+1.21.1.jar",
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/ee41b988-6_fabric-api-0.116.14+1.21.1.jar"
+    }
+  ]
 }
