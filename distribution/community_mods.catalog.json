@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791505353,
+  "updated_at": 1791587471,
   "items": [
     {
       "id": "44ab5931",
@@ -11,6 +11,18 @@
       "description": "Мод, который позволяет делать классные 3д интрфейс-менюшки.",
       "recommended_by": "Steepy3",
       "added_at": 1791428960,
+      "image": "",
+      "auto_install": true
+    },
+    {
+      "id": "9374ba1c",
+      "name": "фабрик",
+      "file": "fabric-api-0.116.14+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/fabric-api-0.116.14%2B1.21.1.jar",
+      "sha256": "333f15bceb117a0ac41e3396eac9873fa6c325c31e746d679809f9a7a0228196",
+      "description": "фывфыв",
+      "recommended_by": "Steepy3",
+      "added_at": 1791587471,
       "image": "",
       "auto_install": true
     }
