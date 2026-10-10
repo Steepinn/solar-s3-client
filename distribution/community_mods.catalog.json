@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791658651,
+  "updated_at": 1791659062,
   "items": [
     {
       "id": "44ab5931",
@@ -11,6 +11,18 @@
       "description": "Мод, который позволяет делать классные 3д интрфейс-менюшки.",
       "recommended_by": "Steepy3",
       "added_at": 1791428960,
+      "image": "",
+      "auto_install": true
+    },
+    {
+      "id": "0761b405",
+      "name": "Do a Barrel Roll",
+      "file": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/do_a_barrel_roll-fabric-3.7.3%2B1.21.jar",
+      "sha256": "ce0e586ab1d4af204afd52522bb00c4585952c11c2637d30d02ca0423edca8a4",
+      "description": "Данный мод делает полет на элитрах более интересным!",
+      "recommended_by": "Steepy3",
+      "added_at": 1791659062,
       "image": "",
       "auto_install": true
     }
