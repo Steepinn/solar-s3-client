@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791587419,
+  "updated_at": 1791602811,
   "suggestions": [
     {
       "id": "ee41b988-6",
@@ -15,6 +15,19 @@
       "jar_path": "distribution/suggestion-jars/ee41b988-6_fabric-api-0.116.14+1.21.1.jar",
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/ee41b988-6_fabric-api-0.116.14+1.21.1.jar",
       "resolved_at": 1791587479
+    },
+    {
+      "id": "0a426842-f",
+      "nick": "Steepy3",
+      "name": "тест",
+      "description": "тест",
+      "url": "",
+      "note": "тест",
+      "jar_file": "fabric-api-0.116.14+1.21.1.jar",
+      "status": "pending",
+      "created_at": 1791602807,
+      "jar_path": "distribution/suggestion-jars/0a426842-f_fabric-api-0.116.14+1.21.1.jar",
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/0a426842-f_fabric-api-0.116.14+1.21.1.jar"
     }
   ]
 }
