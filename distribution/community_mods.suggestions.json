@@ -94,10 +94,11 @@
       "url": "",
       "note": "",
       "jar_file": "InventoryParticles-3.0.0+1.21.1+fabric.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1791659543,
       "jar_path": "distribution/suggestion-jars/1fba0a76-f_InventoryParticles-3.0.0+1.21.1+fabric.jar",
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/1fba0a76-f_InventoryParticles-3.0.0+1.21.1+fabric.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/1fba0a76-f_InventoryParticles-3.0.0+1.21.1+fabric.jar",
+      "resolved_at": 1791659828
     },
     {
       "id": "9898f7af-8",
