@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791659546,
+  "updated_at": 1791659646,
   "suggestions": [
     {
       "id": "ee41b988-6",
@@ -95,6 +95,19 @@
       "created_at": 1791659543,
       "jar_path": "distribution/suggestion-jars/1fba0a76-f_InventoryParticles-3.0.0+1.21.1+fabric.jar",
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/1fba0a76-f_InventoryParticles-3.0.0+1.21.1+fabric.jar"
+    },
+    {
+      "id": "9898f7af-8",
+      "nick": "Steepy3",
+      "name": "Tiny Item Animations",
+      "description": "Просто анимация при переносе предметов в инвентаре.",
+      "url": "",
+      "note": "",
+      "jar_file": "tia-fabric-1.21-1.2.1.jar",
+      "status": "pending",
+      "created_at": 1791659643,
+      "jar_path": "distribution/suggestion-jars/9898f7af-8_tia-fabric-1.21-1.2.1.jar",
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/9898f7af-8_tia-fabric-1.21-1.2.1.jar"
     }
   ]
 }
