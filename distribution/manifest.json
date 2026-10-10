@@ -132,12 +132,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/display-delight-1.6.1-mc1.21.1.jar"
     },
     {
-      "path": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
-      "sha256": "ce0e586ab1d4af204afd52522bb00c4585952c11c2637d30d02ca0423edca8a4",
-      "size": 478842,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/do_a_barrel_roll-fabric-3.7.3+1.21.jar"
-    },
-    {
       "path": "DumplingsDelightRewrapped-1.21.1-1.3.0+fabric.jar",
       "sha256": "ef998b55ea2d491840cb9a3b69b8712bb7f5926e36213f3dad7eb31a69a0a6a2",
       "size": 318579,
@@ -633,7 +627,7 @@
       "path": "webcam-fabric-4.4.0-1.21.1.jar",
       "sha256": "0b5d39d2b032a5f190d252ec3465af57cd7e37cd158c9eaa5cd7c8f73bccd905",
       "size": 90965840,
-      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/webcam-fabric-4.4.0-1.21.1.jar"
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/webcam-fabric-4.4.0-1.21.1.jar"
     },
     {
       "path": "wiretap-1.3.0+1.21.1.fabric.jar",
