@@ -516,6 +516,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.11.jar"
     },
     {
+      "path": "solarauth-1.0.19.jar",
+      "sha256": "c4ff8d44d4f5adb254a6d05b8a50dab2add096450a55a59480c0f55c9a6ae333",
+      "size": 1473287,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.0.19.jar"
+    },
+    {
       "path": "solarauth-1.0.20.jar",
       "sha256": "b51a4a9d3a2a529f82e9c8fe83dbbb22790bf52ae70f9bf5da5c52891900902c",
       "size": 1476672,
@@ -552,10 +558,22 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.8.jar"
     },
     {
+      "path": "solarhub-1.0.9.jar",
+      "sha256": "65bb6e65cca3add64c85fb4534d16782f3d7bbd8f2cf8372962b2018477c1264",
+      "size": 18792,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.9.jar"
+    },
+    {
       "path": "solarpass-1.0.0.jar",
       "sha256": "043ffbb30e0285fc316985a5eb2fbe14fc6a3af15ffea08aa276fbddcfda0c69",
       "size": 26585,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.0.jar"
+    },
+    {
+      "path": "solarpass-1.0.1.jar",
+      "sha256": "a70924d467272779eb7bad5c23be677f4881c0c2d92253ef6224c9c3b242ab46",
+      "size": 28355,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.1.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
@@ -564,10 +582,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartideocean-1.0.1.jar"
     },
     {
-      "path": "solartitle-1.0.6.jar",
-      "sha256": "736374c8971227e844b9967f1088b341a9cdb1fa1624a81ff45b8dd6af9e5428",
-      "size": 21546,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.6.jar"
+      "path": "solartitle-1.0.7.jar",
+      "sha256": "1fa41d767a37e604e4e6e439ae42d4448f49531d7ae93ad21ec038456c22b659",
+      "size": 28190,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.7.jar"
     },
     {
       "path": "solarwebcamfix-1.0.0.jar",
