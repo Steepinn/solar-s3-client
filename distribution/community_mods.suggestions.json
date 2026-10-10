@@ -24,10 +24,11 @@
       "url": "",
       "note": "тест",
       "jar_file": "fabric-api-0.116.14+1.21.1.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1791602807,
       "jar_path": "distribution/suggestion-jars/0a426842-f_fabric-api-0.116.14+1.21.1.jar",
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/0a426842-f_fabric-api-0.116.14+1.21.1.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/0a426842-f_fabric-api-0.116.14+1.21.1.jar",
+      "resolved_at": 1791602854
     }
   ]
 }
