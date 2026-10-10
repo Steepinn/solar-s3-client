@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791659781,
+  "updated_at": 1791659808,
   "items": [
     {
       "id": "0761b405",
@@ -23,6 +23,18 @@
       "description": "Мод добавляет очень приятные UI звуки, я лично с ним всю жизнь!",
       "recommended_by": "Steepy3",
       "added_at": 1791659765,
+      "image": "",
+      "auto_install": true
+    },
+    {
+      "id": "fed56777",
+      "name": "FWA мод",
+      "file": "fwa+1.21.1-1.2.31.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/fwa%2B1.21.1-1.2.31.jar",
+      "sha256": "95781d8490b5ab1e39afde56abc8685e5b94a6c1179d23ce86f5bb5dd9f253df",
+      "description": "Данный мод добавляет анимации миру Minecraft. Начиная от дверей и заканчивая лампами и так далее.",
+      "recommended_by": "Steepy3",
+      "added_at": 1791659781,
       "image": "",
       "auto_install": true
     },
@@ -51,14 +63,14 @@
       "auto_install": true
     },
     {
-      "id": "fed56777",
-      "name": "FWA мод",
-      "file": "fwa+1.21.1-1.2.31.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/fwa%2B1.21.1-1.2.31.jar",
-      "sha256": "95781d8490b5ab1e39afde56abc8685e5b94a6c1179d23ce86f5bb5dd9f253df",
-      "description": "Данный мод добавляет анимации миру Minecraft. Начиная от дверей и заканчивая лампами и так далее.",
+      "id": "7f72c202",
+      "name": "Inventory Particles mod",
+      "file": "InventoryParticles-3.0.0+1.21.1+fabric.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/InventoryParticles-3.0.0%2B1.21.1%2Bfabric.jar",
+      "sha256": "02847950d7121194f4d027df199160bfdc31367f0293ddf482c7766d2054cb02",
+      "description": "Мод просто добавляет прикольные крошки при переносе предметов в инвентаре. Круто выглядит хехе",
       "recommended_by": "Steepy3",
-      "added_at": 1791659781,
+      "added_at": 1791659808,
       "image": "",
       "auto_install": true
     }
