@@ -38,10 +38,11 @@
       "url": "",
       "note": "",
       "jar_file": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1791659053,
       "jar_path": "distribution/suggestion-jars/edefa474-b_do_a_barrel_roll-fabric-3.7.3+1.21.jar",
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/edefa474-b_do_a_barrel_roll-fabric-3.7.3+1.21.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/edefa474-b_do_a_barrel_roll-fabric-3.7.3+1.21.jar",
+      "resolved_at": 1791659070
     }
   ]
 }
