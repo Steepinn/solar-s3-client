@@ -122,10 +122,11 @@
       "url": "",
       "note": "",
       "jar_file": "wakes-0.4.1+1.21.1.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1791659738,
       "jar_path": "distribution/suggestion-jars/1234a64e-f_wakes-0.4.1+1.21.1.jar",
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/1234a64e-f_wakes-0.4.1+1.21.1.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/1234a64e-f_wakes-0.4.1+1.21.1.jar",
+      "resolved_at": 1791659880
     }
   ]
 }
