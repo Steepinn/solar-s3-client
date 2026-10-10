@@ -546,12 +546,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.10.jar"
     },
     {
-      "path": "solarhub-1.0.9.jar",
-      "sha256": "65bb6e65cca3add64c85fb4534d16782f3d7bbd8f2cf8372962b2018477c1264",
-      "size": 18792,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.9.jar"
-    },
-    {
       "path": "solarpass-1.0.0.jar",
       "sha256": "043ffbb30e0285fc316985a5eb2fbe14fc6a3af15ffea08aa276fbddcfda0c69",
       "size": 26585,
