@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791659470,
+  "updated_at": 1791659546,
   "suggestions": [
     {
       "id": "ee41b988-6",
@@ -82,6 +82,19 @@
       "created_at": 1791659467,
       "jar_path": "distribution/suggestion-jars/cc40dd1f-8_fwa+1.21.1-1.2.31.jar",
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/cc40dd1f-8_fwa+1.21.1-1.2.31.jar"
+    },
+    {
+      "id": "1fba0a76-f",
+      "nick": "Steepy3",
+      "name": "Inventory Particles mod",
+      "description": "Мод просто добавляет прикольные крошки при переносе предметов в инвентаре. Круто выглядит хехе",
+      "url": "",
+      "note": "",
+      "jar_file": "InventoryParticles-3.0.0+1.21.1+fabric.jar",
+      "status": "pending",
+      "created_at": 1791659543,
+      "jar_path": "distribution/suggestion-jars/1fba0a76-f_InventoryParticles-3.0.0+1.21.1+fabric.jar",
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/1fba0a76-f_InventoryParticles-3.0.0+1.21.1+fabric.jar"
     }
   ]
 }
