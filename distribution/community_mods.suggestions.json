@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791659148,
+  "updated_at": 1791659260,
   "suggestions": [
     {
       "id": "ee41b988-6",
@@ -56,6 +56,19 @@
       "created_at": 1791659145,
       "jar_path": "distribution/suggestion-jars/a004b49d-a_dark-loading-screen-1.6.14.jar",
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/a004b49d-a_dark-loading-screen-1.6.14.jar"
+    },
+    {
+      "id": "3fd28314-3",
+      "nick": "Steepy3",
+      "name": "Extra Sounds Mod V3 (Legacy)",
+      "description": "Мод добавляет очень приятные UI звуки, я лично с ним всю жизнь!",
+      "url": "",
+      "note": "",
+      "jar_file": "extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar",
+      "status": "pending",
+      "created_at": 1791659255,
+      "jar_path": "distribution/suggestion-jars/3fd28314-3_extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar",
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/3fd28314-3_extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar"
     }
   ]
 }
