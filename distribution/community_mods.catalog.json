@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791659765,
+  "updated_at": 1791659781,
   "items": [
     {
       "id": "0761b405",
@@ -11,6 +11,18 @@
       "description": "Данный мод делает полет на элитрах более интересным!",
       "recommended_by": "Steepy3",
       "added_at": 1791659062,
+      "image": "",
+      "auto_install": true
+    },
+    {
+      "id": "55c187ce",
+      "name": "Extra Sounds Mod V3 (Legacy)",
+      "file": "extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/extrasounds-v3-legacy-3.0.1%2B1.21.11%2B1.14-build.3.jar",
+      "sha256": "cca1d063566856704eb374f16ebd5704153e0485261dd266ffdd32cbe5e2e5c1",
+      "description": "Мод добавляет очень приятные UI звуки, я лично с ним всю жизнь!",
+      "recommended_by": "Steepy3",
+      "added_at": 1791659765,
       "image": "",
       "auto_install": true
     },
@@ -39,14 +51,14 @@
       "auto_install": true
     },
     {
-      "id": "55c187ce",
-      "name": "Extra Sounds Mod V3 (Legacy)",
-      "file": "extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/extrasounds-v3-legacy-3.0.1%2B1.21.11%2B1.14-build.3.jar",
-      "sha256": "cca1d063566856704eb374f16ebd5704153e0485261dd266ffdd32cbe5e2e5c1",
-      "description": "Мод добавляет очень приятные UI звуки, я лично с ним всю жизнь!",
+      "id": "fed56777",
+      "name": "FWA мод",
+      "file": "fwa+1.21.1-1.2.31.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/fwa%2B1.21.1-1.2.31.jar",
+      "sha256": "95781d8490b5ab1e39afde56abc8685e5b94a6c1179d23ce86f5bb5dd9f253df",
+      "description": "Данный мод добавляет анимации миру Minecraft. Начиная от дверей и заканчивая лампами и так далее.",
       "recommended_by": "Steepy3",
-      "added_at": 1791659765,
+      "added_at": 1791659781,
       "image": "",
       "auto_install": true
     }
