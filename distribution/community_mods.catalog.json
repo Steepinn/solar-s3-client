@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791660916,
+  "updated_at": 1791667527,
   "items": [
     {
       "id": "0761b405",
@@ -40,6 +40,22 @@
       "image": "",
       "auto_install": true,
       "has_dependency": false
+    },
+    {
+      "id": "2ecf322b",
+      "name": "Inventory Particles mod",
+      "file": "InventoryParticles-3.0.0+1.21.1+fabric.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/InventoryParticles-3.0.0%2B1.21.1%2Bfabric.jar",
+      "sha256": "02847950d7121194f4d027df199160bfdc31367f0293ddf482c7766d2054cb02",
+      "description": "Мод добавляет прикольные крошки при перенесения  предметов в инвентаре.",
+      "recommended_by": "Steepy3",
+      "added_at": 1791660916,
+      "image": "",
+      "auto_install": true,
+      "has_dependency": true,
+      "dependency_name": "MossyLib",
+      "dependency_jar_file": "bc5e0e7a-5_dep_MossyLib-1.5.0+1.21.1+fabric.jar",
+      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/bc5e0e7a-5_dep_MossyLib-1.5.0%2B1.21.1%2Bfabric.jar"
     },
     {
       "id": "44ab5931",
@@ -92,22 +108,6 @@
       "image": "",
       "auto_install": true,
       "has_dependency": false
-    },
-    {
-      "id": "2ecf322b",
-      "name": "Inventory Particles mod",
-      "file": "InventoryParticles-3.0.0+1.21.1+fabric.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/InventoryParticles-3.0.0%2B1.21.1%2Bfabric.jar",
-      "sha256": "02847950d7121194f4d027df199160bfdc31367f0293ddf482c7766d2054cb02",
-      "description": "Мод добавляет прикольные крошки при перенесения  предметов в инвентаре.",
-      "recommended_by": "Steepy3",
-      "added_at": 1791660916,
-      "image": "",
-      "auto_install": true,
-      "has_dependency": true,
-      "dependency_name": "MossyLib",
-      "dependency_jar_file": "bc5e0e7a-5_dep_MossyLib-1.5.0+1.21.1+fabric.jar",
-      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/bc5e0e7a-5_dep_MossyLib-1.5.0%2B1.21.1%2Bfabric.jar"
     }
   ]
 }
