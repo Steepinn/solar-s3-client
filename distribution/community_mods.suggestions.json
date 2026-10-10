@@ -52,10 +52,11 @@
       "url": "",
       "note": "",
       "jar_file": "dark-loading-screen-1.6.14.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1791659145,
       "jar_path": "distribution/suggestion-jars/a004b49d-a_dark-loading-screen-1.6.14.jar",
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/a004b49d-a_dark-loading-screen-1.6.14.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/a004b49d-a_dark-loading-screen-1.6.14.jar",
+      "resolved_at": 1791659761
     },
     {
       "id": "3fd28314-3",
