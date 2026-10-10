@@ -136,7 +136,7 @@
       "url": "",
       "note": "",
       "jar_file": "InventoryParticles-3.0.0+1.21.1+fabric.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1791660902,
       "jar_path": "distribution/suggestion-jars/bc5e0e7a-5_InventoryParticles-3.0.0+1.21.1+fabric.jar",
       "has_dependency": true,
@@ -144,7 +144,8 @@
       "dependency_name": "MossyLib",
       "dependency_jar_path": "distribution/suggestion-jars/bc5e0e7a-5_dep_MossyLib-1.5.0+1.21.1+fabric.jar",
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/bc5e0e7a-5_InventoryParticles-3.0.0+1.21.1+fabric.jar",
-      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/bc5e0e7a-5_dep_MossyLib-1.5.0+1.21.1+fabric.jar"
+      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/bc5e0e7a-5_dep_MossyLib-1.5.0+1.21.1+fabric.jar",
+      "resolved_at": 1791660943
     }
   ]
 }
