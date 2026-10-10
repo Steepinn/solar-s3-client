@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated_at": 1791659062,
+  "updated_at": 1791659751,
   "items": [
+    {
+      "id": "0761b405",
+      "name": "Do a Barrel Roll",
+      "file": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/do_a_barrel_roll-fabric-3.7.3%2B1.21.jar",
+      "sha256": "ce0e586ab1d4af204afd52522bb00c4585952c11c2637d30d02ca0423edca8a4",
+      "description": "Данный мод делает полет на элитрах более интересным!",
+      "recommended_by": "Steepy3",
+      "added_at": 1791659062,
+      "image": "",
+      "auto_install": true
+    },
     {
       "id": "44ab5931",
       "name": "Spatial GUI 1.5",
@@ -15,14 +27,14 @@
       "auto_install": true
     },
     {
-      "id": "0761b405",
-      "name": "Do a Barrel Roll",
-      "file": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/do_a_barrel_roll-fabric-3.7.3%2B1.21.jar",
-      "sha256": "ce0e586ab1d4af204afd52522bb00c4585952c11c2637d30d02ca0423edca8a4",
-      "description": "Данный мод делает полет на элитрах более интересным!",
+      "id": "311744e7",
+      "name": "Тёмный экран загрузки Mojang",
+      "file": "dark-loading-screen-1.6.14.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/dark-loading-screen-1.6.14.jar",
+      "sha256": "dd8a1850675a185d013fac3afa0675a6422e5d8f89c0e421d83e23ca9b1c0b76",
+      "description": "Данный мод просто делает красный экран Mojang - черным)",
       "recommended_by": "Steepy3",
-      "added_at": 1791659062,
+      "added_at": 1791659751,
       "image": "",
       "auto_install": true
     }
