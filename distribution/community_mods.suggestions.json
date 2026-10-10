@@ -108,10 +108,11 @@
       "url": "",
       "note": "",
       "jar_file": "tia-fabric-1.21-1.2.1.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1791659643,
       "jar_path": "distribution/suggestion-jars/9898f7af-8_tia-fabric-1.21-1.2.1.jar",
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/9898f7af-8_tia-fabric-1.21-1.2.1.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/9898f7af-8_tia-fabric-1.21-1.2.1.jar",
+      "resolved_at": 1791659852
     },
     {
       "id": "1234a64e-f",
