@@ -66,10 +66,11 @@
       "url": "",
       "note": "",
       "jar_file": "extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1791659255,
       "jar_path": "distribution/suggestion-jars/3fd28314-3_extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar",
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/3fd28314-3_extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/3fd28314-3_extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar",
+      "resolved_at": 1791659778
     },
     {
       "id": "cc40dd1f-8",
