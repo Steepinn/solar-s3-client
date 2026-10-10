@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791659856,
+  "updated_at": 1791660295,
   "items": [
     {
       "id": "0761b405",
@@ -39,18 +39,6 @@
       "auto_install": true
     },
     {
-      "id": "7f72c202",
-      "name": "Inventory Particles mod",
-      "file": "InventoryParticles-3.0.0+1.21.1+fabric.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/InventoryParticles-3.0.0%2B1.21.1%2Bfabric.jar",
-      "sha256": "02847950d7121194f4d027df199160bfdc31367f0293ddf482c7766d2054cb02",
-      "description": "Мод просто добавляет прикольные крошки при переносе предметов в инвентаре. Круто выглядит хехе",
-      "recommended_by": "Steepy3",
-      "added_at": 1791659808,
-      "image": "",
-      "auto_install": true
-    },
-    {
       "id": "44ab5931",
       "name": "Spatial GUI 1.5",
       "file": "spatial-gui-1.5+1.21.1-fabric-1.5.jar",
@@ -75,18 +63,6 @@
       "auto_install": true
     },
     {
-      "id": "311744e7",
-      "name": "Тёмный экран загрузки Mojang",
-      "file": "dark-loading-screen-1.6.14.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/dark-loading-screen-1.6.14.jar",
-      "sha256": "dd8a1850675a185d013fac3afa0675a6422e5d8f89c0e421d83e23ca9b1c0b76",
-      "description": "Данный мод просто делает красный экран Mojang - черным)",
-      "recommended_by": "Steepy3",
-      "added_at": 1791659751,
-      "image": "",
-      "auto_install": true
-    },
-    {
       "id": "e8370408",
       "name": "Wakes MOD",
       "file": "wakes-0.4.1+1.21.1.jar",
@@ -95,6 +71,18 @@
       "description": "Мод добавляет простые, но крутые эффекты связанные с водой. Скачаете и сами поймете.",
       "recommended_by": "Steepy3",
       "added_at": 1791659855,
+      "image": "",
+      "auto_install": true
+    },
+    {
+      "id": "311744e7",
+      "name": "Тёмный экран загрузки Mojang",
+      "file": "dark-loading-screen-1.6.14.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/dark-loading-screen-1.6.14.jar",
+      "sha256": "dd8a1850675a185d013fac3afa0675a6422e5d8f89c0e421d83e23ca9b1c0b76",
+      "description": "Данный мод просто делает красный экран Mojang - черным)",
+      "recommended_by": "Steepy3",
+      "added_at": 1791659751,
       "image": "",
       "auto_install": true
     }
