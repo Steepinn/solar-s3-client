@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791659056,
+  "updated_at": 1791659148,
   "suggestions": [
     {
       "id": "ee41b988-6",
@@ -43,6 +43,19 @@
       "jar_path": "distribution/suggestion-jars/edefa474-b_do_a_barrel_roll-fabric-3.7.3+1.21.jar",
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/edefa474-b_do_a_barrel_roll-fabric-3.7.3+1.21.jar",
       "resolved_at": 1791659070
+    },
+    {
+      "id": "a004b49d-a",
+      "nick": "Steepy3",
+      "name": "Тёмный экран загрузки Mojang",
+      "description": "Данный мод просто делает красный экран Mojang - черным)",
+      "url": "",
+      "note": "",
+      "jar_file": "dark-loading-screen-1.6.14.jar",
+      "status": "pending",
+      "created_at": 1791659145,
+      "jar_path": "distribution/suggestion-jars/a004b49d-a_dark-loading-screen-1.6.14.jar",
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/a004b49d-a_dark-loading-screen-1.6.14.jar"
     }
   ]
 }
