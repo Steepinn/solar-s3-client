@@ -511,8 +511,8 @@
     },
     {
       "path": "solar_ui_ru-1.0.11.jar",
-      "sha256": "6f66af187396fed2a5033a4ccb86706f74050ed4c130df65da02e91bc0534be7",
-      "size": 1863867,
+      "sha256": "b17ee45541853308eafff715e99a4fedfc310f85e8fbced19185f60755d7b758",
+      "size": 1551822,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.11.jar"
     },
     {
