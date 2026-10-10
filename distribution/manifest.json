@@ -240,6 +240,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/FuelInfo-2.1+1.21.jar"
     },
     {
+      "path": "gbattlepass-1.0.jar",
+      "sha256": "5a67656fb2a17b3658bbb7eb5c7c289397685903abaf929ba0952455f2963229",
+      "size": 1229425,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/gbattlepass-1.0.jar"
+    },
+    {
       "path": "geckolib-fabric-1.21.1-4.9.2-arclight.jar",
       "sha256": "cf1c16f4238127460f2dda7c3a17fd73577f733d753d8d205751436e660adad6",
       "size": 660425,
@@ -510,10 +516,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.11.jar"
     },
     {
-      "path": "solarauth-1.0.19.jar",
-      "sha256": "c4ff8d44d4f5adb254a6d05b8a50dab2add096450a55a59480c0f55c9a6ae333",
-      "size": 1473287,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.0.19.jar"
+      "path": "solarauth-1.0.20.jar",
+      "sha256": "b51a4a9d3a2a529f82e9c8fe83dbbb22790bf52ae70f9bf5da5c52891900902c",
+      "size": 1476672,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.0.20.jar"
     },
     {
       "path": "solardiary-1.3.1.jar",
@@ -538,6 +544,18 @@
       "sha256": "a4e14706f33b18f1a2fa94ff79039f0b5f11b40486be2fe800f55ba61f2b7bdf",
       "size": 18696,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.7.jar"
+    },
+    {
+      "path": "solarhub-1.0.8.jar",
+      "sha256": "ca7f59dc50d02c3fcaf14c93ea4c6353e103c326c255b6a41442369661dd7600",
+      "size": 18762,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.8.jar"
+    },
+    {
+      "path": "solarpass-1.0.0.jar",
+      "sha256": "043ffbb30e0285fc316985a5eb2fbe14fc6a3af15ffea08aa276fbddcfda0c69",
+      "size": 26585,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.0.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
