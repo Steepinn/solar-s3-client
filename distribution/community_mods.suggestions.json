@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791659646,
+  "updated_at": 1791659742,
   "suggestions": [
     {
       "id": "ee41b988-6",
@@ -108,6 +108,19 @@
       "created_at": 1791659643,
       "jar_path": "distribution/suggestion-jars/9898f7af-8_tia-fabric-1.21-1.2.1.jar",
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/9898f7af-8_tia-fabric-1.21-1.2.1.jar"
+    },
+    {
+      "id": "1234a64e-f",
+      "nick": "Steepy3",
+      "name": "Wakes MOD",
+      "description": "Мод добавляет простые, но крутые эффекты связанные с водой. Скачаете и сами поймете.",
+      "url": "",
+      "note": "",
+      "jar_file": "wakes-0.4.1+1.21.1.jar",
+      "status": "pending",
+      "created_at": 1791659738,
+      "jar_path": "distribution/suggestion-jars/1234a64e-f_wakes-0.4.1+1.21.1.jar",
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/1234a64e-f_wakes-0.4.1+1.21.1.jar"
     }
   ]
 }
