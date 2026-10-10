@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791659751,
+  "updated_at": 1791659765,
   "items": [
     {
       "id": "0761b405",
@@ -35,6 +35,18 @@
       "description": "Данный мод просто делает красный экран Mojang - черным)",
       "recommended_by": "Steepy3",
       "added_at": 1791659751,
+      "image": "",
+      "auto_install": true
+    },
+    {
+      "id": "55c187ce",
+      "name": "Extra Sounds Mod V3 (Legacy)",
+      "file": "extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/extrasounds-v3-legacy-3.0.1%2B1.21.11%2B1.14-build.3.jar",
+      "sha256": "cca1d063566856704eb374f16ebd5704153e0485261dd266ffdd32cbe5e2e5c1",
+      "description": "Мод добавляет очень приятные UI звуки, я лично с ним всю жизнь!",
+      "recommended_by": "Steepy3",
+      "added_at": 1791659765,
       "image": "",
       "auto_install": true
     }
