@@ -510,10 +510,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/sodium-fabric-0.8.12+mc1.21.1.jar"
     },
     {
-      "path": "solar_ui_ru-1.0.14.jar",
-      "sha256": "42b258c130fc86ff8e4ab8ac2597a9beb25e20177420df3e9b0d1d1f78176be4",
-      "size": 1561330,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.14.jar"
+      "path": "solar_ui_ru-1.0.16.jar",
+      "sha256": "6834ae5ec85d56f136b02690d008f88a0acd0e7c51bcc29205ad2a99e7c82800",
+      "size": 1561315,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.16.jar"
     },
     {
       "path": "solarauth-1.0.19.jar",
@@ -540,16 +540,16 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.0.10.jar",
-      "sha256": "10f587a66bb8998a66cb0d81b9085efdf9b892be08fa7d01244301026272a5f3",
-      "size": 18666,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.10.jar"
+      "path": "solarhub-1.0.12.jar",
+      "sha256": "59d979b516334a1c21dcb09859239408b7c1b95eb9571a46cd966c5e623a4bc5",
+      "size": 21270,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.12.jar"
     },
     {
-      "path": "solarpass-1.0.3.jar",
-      "sha256": "c8ad31d10250d3422731a1256d5b62451d076499a3da8b8b50e3756187ba207e",
-      "size": 28711,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.3.jar"
+      "path": "solarpass-1.0.4.jar",
+      "sha256": "db970fd877173a6b2352a5bf48efa402e80be95532707022ad4b655d9d211d08",
+      "size": 27303,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.4.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
