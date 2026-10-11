@@ -540,16 +540,16 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.0.14.jar",
-      "sha256": "39cf159540e3568dee0864b16dd12675be59f97e09991d0639f58c76e6dd193b",
-      "size": 21683,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.14.jar"
+      "path": "solarhub-1.0.15.jar",
+      "sha256": "e863b6301693f64752d48397dd17bac5bb093d7f67b06d0fa3fc30467748d7e7",
+      "size": 21535,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.15.jar"
     },
     {
-      "path": "solarpass-1.0.5.jar",
-      "sha256": "7b13bf505cfc44e78b6b699a6eafa9ca3cc903b015a720c0a9a81427d43eaaaf",
-      "size": 28739,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.5.jar"
+      "path": "solarpass-1.0.6.jar",
+      "sha256": "775f45c3471f6abbd403ccdf3d0ee51c1879ed54eb8004590bc53d1a5fe639f3",
+      "size": 29677,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.6.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
