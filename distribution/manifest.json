@@ -168,6 +168,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/enderitemod-fabric-1.6.2-1.21.1.jar"
     },
     {
+      "path": "enhancedblockentities-0.10.2+1.21.jar",
+      "sha256": "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679",
+      "size": 201157,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/enhancedblockentities-0.10.2+1.21.jar"
+    },
+    {
       "path": "entity_model_features-3.2.4-1.21-fabric.jar",
       "sha256": "3c3f800b4bf911a158435c36dac0cf4176bec36d837c0696fdfae39d7ec5f976",
       "size": 565280,
@@ -238,6 +244,12 @@
       "sha256": "aaddbb630969255bd1480165220522071ac268c61019ae589adb129204f5b7c1",
       "size": 1149445,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/FuelInfo-2.1+1.21.jar"
+    },
+    {
+      "path": "fzzy_config-0.7.7+1.21.jar",
+      "sha256": "8183d6bf61e2b222bd628e0d3f6a01da50839244054e27ba4532e1768d709b8f",
+      "size": 2387721,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/fzzy_config-0.7.7+1.21.jar"
     },
     {
       "path": "gbattlepass-1.0.jar",
@@ -400,6 +412,12 @@
       "sha256": "4cc0ff16a6782ec4630ec4145b1999e86af58db1c253f75effb75e7d2569d851",
       "size": 585885,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/particle-rain-3.0.5.jar"
+    },
+    {
+      "path": "particle_core-0.3.3+1.21.jar",
+      "sha256": "e7cfef3eb16d5b73c00915a5f2b820d66555c23d13e0636125d7b07384a443e4",
+      "size": 147812,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/particle_core-0.3.3+1.21.jar"
     },
     {
       "path": "Ping-Wheel-1.12.2-fabric-1.21.1.jar",
