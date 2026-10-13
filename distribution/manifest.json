@@ -564,16 +564,16 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.0.20.jar",
-      "sha256": "0522979dc8501f4fba59ad715950eae2b4532d3409f37002b83cf3faaf4cc9e0",
-      "size": 22704,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.20.jar"
+      "path": "solarhub-1.0.21.jar",
+      "sha256": "fa81de66451cbb07d4c91220d29a2b287c87e6c6381a71813e65f1e2f984a970",
+      "size": 23187,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.21.jar"
     },
     {
-      "path": "solarpass-1.0.11.jar",
-      "sha256": "e6dbc992f60b20a377c588951e8629e5d8edb1c64c77b4829ff5e74974a5b8be",
-      "size": 70054,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.11.jar"
+      "path": "solarpass-1.0.12.jar",
+      "sha256": "0a9039267a312c90e4f54b3c5aba0ee201371115309f2d2d1d4ee0c9b592b5b2",
+      "size": 71389,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.12.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
@@ -582,10 +582,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartideocean-1.0.1.jar"
     },
     {
-      "path": "solartitle-1.0.19.jar",
-      "sha256": "c2f3fe3ebda8e3456f56139b6d13975444bf259acbd1a7e070622686c10b6eeb",
-      "size": 70786,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.19.jar"
+      "path": "solartitle-1.0.20.jar",
+      "sha256": "f08ae85f479c038ecd7f974a1eeed040798755f37b4507b788e4cba7fffbb50b",
+      "size": 71232,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.20.jar"
     },
     {
       "path": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
