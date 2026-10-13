@@ -414,12 +414,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/onceuponastroll-fabric-1.21.1-1.10.0.jar"
     },
     {
-      "path": "Origins-1.13.0-pre.2+mc.1.21.1.jar",
-      "sha256": "dd918c5a985df70f72fc617053e20e647017138750ac1a5826e6c7c74b8c834a",
-      "size": 4648142,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/Origins-1.13.0-pre.2+mc.1.21.1.jar"
-    },
-    {
       "path": "particle-rain-3.0.5.jar",
       "sha256": "4cc0ff16a6782ec4630ec4145b1999e86af58db1c253f75effb75e7d2569d851",
       "size": 585885,
@@ -588,10 +582,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartideocean-1.0.1.jar"
     },
     {
-      "path": "solartitle-1.0.16.jar",
-      "sha256": "567682cae4177c0548c43ddf2af69398babd92d1997819838e67fc2644f34a69",
-      "size": 65062,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.16.jar"
+      "path": "solartitle-1.0.17.jar",
+      "sha256": "861951313c5118566bd504c72f1a8ff01c396265b111bbbca92cfb87493afe4d",
+      "size": 66859,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.17.jar"
     },
     {
       "path": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
