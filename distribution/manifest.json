@@ -576,12 +576,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
     },
     {
-      "path": "spark-1.10.109-fabric.jar",
-      "sha256": "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047",
-      "size": 3609981,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/spark-1.10.109-fabric.jar"
-    },
-    {
       "path": "structure_layout_optimizer-fabric-1.0.12.jar",
       "sha256": "38c4066ded870f21d60deeb2e05cb30d00d1db0f930c92f8fdd2f85098cb03fe",
       "size": 62580,
