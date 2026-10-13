@@ -564,10 +564,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartideocean-1.0.1.jar"
     },
     {
-      "path": "solartitle-1.0.14.jar",
-      "sha256": "6a45e79861e101b36afcb69327e2279e7c28dec85a9fca29a003f3fd844b5bee",
-      "size": 78339,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.14.jar"
+      "path": "solartitle-1.0.15.jar",
+      "sha256": "0bf3dffba9c538141370268272d5d6115c8a6a406810cb96977d4e49beaaff90",
+      "size": 59517,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.15.jar"
     },
     {
       "path": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
