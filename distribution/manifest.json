@@ -546,6 +546,18 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/sodium-fabric-0.8.12+mc1.21.1.jar"
     },
     {
+      "path": "solar_ui_ru-1.0.11.jar",
+      "sha256": "b17ee45541853308eafff715e99a4fedfc310f85e8fbced19185f60755d7b758",
+      "size": 1551822,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.11.jar"
+    },
+    {
+      "path": "solar_ui_ru-1.0.14.jar",
+      "sha256": "42b258c130fc86ff8e4ab8ac2597a9beb25e20177420df3e9b0d1d1f78176be4",
+      "size": 1561330,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.14.jar"
+    },
+    {
       "path": "solar_ui_ru-1.0.16.jar",
       "sha256": "6834ae5ec85d56f136b02690d008f88a0acd0e7c51bcc29205ad2a99e7c82800",
       "size": 1561315,
@@ -594,10 +606,52 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.19.jar"
     },
     {
+      "path": "solarpass-1.0.0.jar",
+      "sha256": "043ffbb30e0285fc316985a5eb2fbe14fc6a3af15ffea08aa276fbddcfda0c69",
+      "size": 26585,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.0.jar"
+    },
+    {
+      "path": "solarpass-1.0.1.jar",
+      "sha256": "a70924d467272779eb7bad5c23be677f4881c0c2d92253ef6224c9c3b242ab46",
+      "size": 28355,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.1.jar"
+    },
+    {
+      "path": "solarpass-1.0.10.jar",
+      "sha256": "4687846e2384b1b7beddc92d3aa1e957f04673a455a09a999040ff1afd695707",
+      "size": 67134,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.10.jar"
+    },
+    {
       "path": "solarpass-1.0.11.jar",
       "sha256": "e6dbc992f60b20a377c588951e8629e5d8edb1c64c77b4829ff5e74974a5b8be",
       "size": 70054,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.11.jar"
+    },
+    {
+      "path": "solarpass-1.0.3.jar",
+      "sha256": "c8ad31d10250d3422731a1256d5b62451d076499a3da8b8b50e3756187ba207e",
+      "size": 28711,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.3.jar"
+    },
+    {
+      "path": "solarpass-1.0.4.jar",
+      "sha256": "db970fd877173a6b2352a5bf48efa402e80be95532707022ad4b655d9d211d08",
+      "size": 27303,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.4.jar"
+    },
+    {
+      "path": "solarpass-1.0.7.jar",
+      "sha256": "879f57c2473bf926aec7d0a4926debe175bd238c83943b3b2b3ab38f1212c927",
+      "size": 41721,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.7.jar"
+    },
+    {
+      "path": "solarpass-1.0.8.jar",
+      "sha256": "340e274a617ff10662c20ad6313a3905f5c3867961664fedbf117e983ef2be75",
+      "size": 44156,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarpass-1.0.8.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
@@ -606,10 +660,70 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartideocean-1.0.1.jar"
     },
     {
+      "path": "solartitle-1.0.10.jar",
+      "sha256": "7d1b51963e4b0c6b61183374a426ebb45f9fe217551b025f9d4ab6f009d7e73e",
+      "size": 72564,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.10.jar"
+    },
+    {
+      "path": "solartitle-1.0.11.jar",
+      "sha256": "0d94605d907f08c665dc3c5685fd8c8310746faefb23afc42092f7f19286a5af",
+      "size": 32530,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.11.jar"
+    },
+    {
+      "path": "solartitle-1.0.12.jar",
+      "sha256": "d2c0ca6e64d48eea440b775a766b5cedc54cbadab9bc1664887a50716616d317",
+      "size": 32710,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.12.jar"
+    },
+    {
+      "path": "solartitle-1.0.13.jar",
+      "sha256": "031b340a135b1208fa7ff52145fc7a10cb42513de206ec9c58990c39156eb05c",
+      "size": 32060,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.13.jar"
+    },
+    {
+      "path": "solartitle-1.0.14.jar",
+      "sha256": "6a45e79861e101b36afcb69327e2279e7c28dec85a9fca29a003f3fd844b5bee",
+      "size": 78339,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.14.jar"
+    },
+    {
+      "path": "solartitle-1.0.15.jar",
+      "sha256": "0bf3dffba9c538141370268272d5d6115c8a6a406810cb96977d4e49beaaff90",
+      "size": 59517,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.15.jar"
+    },
+    {
       "path": "solartitle-1.0.16.jar",
       "sha256": "567682cae4177c0548c43ddf2af69398babd92d1997819838e67fc2644f34a69",
       "size": 65062,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.16.jar"
+    },
+    {
+      "path": "solartitle-1.0.6.jar",
+      "sha256": "736374c8971227e844b9967f1088b341a9cdb1fa1624a81ff45b8dd6af9e5428",
+      "size": 21546,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.6.jar"
+    },
+    {
+      "path": "solartitle-1.0.7.jar",
+      "sha256": "1fa41d767a37e604e4e6e439ae42d4448f49531d7ae93ad21ec038456c22b659",
+      "size": 28190,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.7.jar"
+    },
+    {
+      "path": "solartitle-1.0.8.jar",
+      "sha256": "90d1f6d9edb7e05fb78e3f60d8b504f682c8f6170b8fa9e78a750bf1f7642e54",
+      "size": 28302,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.8.jar"
+    },
+    {
+      "path": "solartitle-1.0.9.jar",
+      "sha256": "9fbe280447a6db97a3f459078c749e0bb5d1976849658312a4da9027f00c0eac",
+      "size": 25809,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.9.jar"
     },
     {
       "path": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
