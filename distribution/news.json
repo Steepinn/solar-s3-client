@@ -2,15 +2,6 @@
   "version": 1,
   "items": [
     {
-      "id": "news-62cb431c",
-      "date": "2026-10-14",
-      "tag": "лаунчер",
-      "title": "ntcn",
-      "body": "тест",
-      "url": "",
-      "author": "Steepy3"
-    },
-    {
       "id": "profile-site",
       "date": "2026-03-13",
       "tag": "сайт",
