@@ -2,6 +2,15 @@
   "version": 1,
   "items": [
     {
+      "id": "news-2c9e914e",
+      "date": "2026-10-14",
+      "tag": "ивент",
+      "title": "asd",
+      "body": "asd",
+      "url": "",
+      "author": "Steepy3"
+    },
+    {
       "id": "profile-site",
       "date": "2026-03-13",
       "tag": "сайт",
