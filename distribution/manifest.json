@@ -636,10 +636,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/tide-fabric-1.21.1-2.1.jar"
     },
     {
-      "path": "the_bumblezone-7.16.0+1.21.1-fabric.jar",
+      "path": "the_bumblezone-7.16.0-1.21.1-fabric.jar",
       "sha256": "b22aeb0ce3cbd6e8158aa07e702969b94dac05e16f6a8f274cde16c6c38ca011",
       "size": 69588718,
-      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/the_bumblezone-7.16.0%2B1.21.1-fabric.jar"
+      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/the_bumblezone-7.16.0-1.21.1-fabric.jar"
     },
     {
       "path": "trinkets-3.10.0.jar",
