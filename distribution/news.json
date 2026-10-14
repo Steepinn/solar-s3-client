@@ -2,15 +2,6 @@
   "version": 1,
   "items": [
     {
-      "id": "news-9d78cac0",
-      "date": "2026-10-14",
-      "tag": "сервер",
-      "title": "тест",
-      "body": "тест",
-      "url": "",
-      "author": "Steepy3"
-    },
-    {
       "id": "profile-site",
       "date": "2026-03-13",
       "tag": "сайт",
