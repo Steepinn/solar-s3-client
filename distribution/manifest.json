@@ -637,8 +637,8 @@
     },
     {
       "path": "the_bumblezone-7.16.0+1.21.1-fabric.jar",
-      "sha256": "4f4f60ce42681e0f64ba7c00a47e7c657e1b7bb63d158a88b85d7e466b46f434",
-      "size": 69639526,
+      "sha256": "b22aeb0ce3cbd6e8158aa07e702969b94dac05e16f6a8f274cde16c6c38ca011",
+      "size": 69588718,
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/the_bumblezone-7.16.0%2B1.21.1-fabric.jar"
     },
     {
