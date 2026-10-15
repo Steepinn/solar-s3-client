@@ -624,12 +624,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/tide-fabric-1.21.1-2.1.jar"
     },
     {
-      "path": "the_bumblezone-7.16.0-1.21.1-fabric.jar",
-      "sha256": "b0d9d5222e9ea4152db7ad001c8c79ec6adf7ec9d45c398efeeba7b7b18f6da1",
-      "size": 69588634,
-      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/the_bumblezone-7.16.0-1.21.1-fabric.jar"
-    },
-    {
       "path": "trinkets-3.10.0.jar",
       "sha256": "349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f",
       "size": 272944,
@@ -712,6 +706,12 @@
       "sha256": "1cb412c83aa0e8273d29a1122c5799eb15a48acc8f0b770efe451c516647f5f8",
       "size": 587855,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
+    },
+    {
+      "path": "solar-bumblezone-7.16.0-1.21.1-fabric.jar",
+      "sha256": "b0d9d5222e9ea4152db7ad001c8c79ec6adf7ec9d45c398efeeba7b7b18f6da1",
+      "size": 69588634,
+      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/solar-bumblezone-7.16.0-1.21.1-fabric.jar"
     }
   ]
 }
