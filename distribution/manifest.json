@@ -558,10 +558,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.16.jar"
     },
     {
-      "path": "solarauth-1.0.22.jar",
-      "sha256": "313ec8d78d02bc06569cebaabb7bda2c0ef74c78884c78984bd7ffee08b22344",
-      "size": 1481547,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.0.22.jar"
+      "path": "solarauth-1.0.23.jar",
+      "sha256": "5a10afbfe0a8ce4d931e6637138f71142119056d844fdcb36ccd69231d9a5207",
+      "size": 1481609,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.0.23.jar"
     },
     {
       "path": "solardiary-1.3.1.jar",
