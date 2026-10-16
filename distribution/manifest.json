@@ -306,6 +306,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/InvMove-0.9.3+1.21.1-Fabric.jar"
     },
     {
+      "path": "IronChests-2.0.4.jar",
+      "sha256": "1829b11371aa462bd3f5f7416fd5460fd2cd8642631921ae17bcd713a3476f54",
+      "size": 582972,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/IronChests-2.0.4.jar"
+    },
+    {
       "path": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
       "sha256": "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff",
       "size": 2791343,
@@ -546,10 +552,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/sodium-fabric-0.8.12+mc1.21.1.jar"
     },
     {
-      "path": "solar_ui_ru-1.0.16.jar",
-      "sha256": "6834ae5ec85d56f136b02690d008f88a0acd0e7c51bcc29205ad2a99e7c82800",
-      "size": 1561315,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.16.jar"
+      "path": "solar_ui_ru-1.0.17.jar",
+      "sha256": "ae423c06fcd4bae327be02cd7585df4d456a1c3120895653ed46cba8ebac9cb0",
+      "size": 1606404,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.17.jar"
     },
     {
       "path": "solarauth-1.0.23.jar",
@@ -558,10 +564,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.0.23.jar"
     },
     {
-      "path": "solardiary-1.3.2.jar",
-      "sha256": "7d0b55e15f17003f178959f0d7ba55592ee9503f0af93d68c76bedf143281fb2",
-      "size": 48853,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solardiary-1.3.2.jar"
+      "path": "solardiary-1.3.4.jar",
+      "sha256": "81afca5fa424808d0745d8d061df3ab48882031a0c83dd3b2f90655b142f0156",
+      "size": 51843,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solardiary-1.3.4.jar"
     },
     {
       "path": "solarfdcompat-1.0.1.jar",
@@ -570,10 +576,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.0.26.jar",
-      "sha256": "5033087c68ad008c3c8002c9ee7c0e40b0f78ac460c7887ac50a5dfd07e496d3",
-      "size": 26798,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.26.jar"
+      "path": "solarhub-1.0.28.jar",
+      "sha256": "24092f26987375e7426b265ce128496d18fcd4950d12f84ea734981358e164a7",
+      "size": 29356,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.28.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
