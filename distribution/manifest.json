@@ -180,12 +180,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/enderitemod-fabric-1.6.2-1.21.1.jar"
     },
     {
-      "path": "enhancedblockentities-0.10.2+1.21.jar",
-      "sha256": "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679",
-      "size": 201157,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/enhancedblockentities-0.10.2+1.21.jar"
-    },
-    {
       "path": "entity_model_features-3.2.4-1.21-fabric.jar",
       "sha256": "3c3f800b4bf911a158435c36dac0cf4176bec36d837c0696fdfae39d7ec5f976",
       "size": 565280,
@@ -570,10 +564,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solardiary-1.3.5.jar"
     },
     {
-      "path": "solarbrbcompat-1.0.4.jar",
-      "sha256": "dcbfde892f44ed3e3cff06d3e49c9b5f9afab433958132999dd57957fa31994e",
-      "size": 3635,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarbrbcompat-1.0.4.jar"
+      "path": "solarbrbcompat-1.0.5.jar",
+      "sha256": "d3b804aee0a833c56b9cd007811980f5efdbc7686c5b459ce47ef61ee0ec4096",
+      "size": 3803,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarbrbcompat-1.0.5.jar"
     },
     {
       "path": "solarfdcompat-1.0.1.jar",
@@ -582,10 +576,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.0.29.jar",
-      "sha256": "ddd7e39c5ea1242f0083dd07a74b918b8717f8ccfc6ba0d8961bee8320ded396",
-      "size": 30532,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.29.jar"
+      "path": "solarhub-1.0.30.jar",
+      "sha256": "15d898264d8b9d33c496277f4d2fb7ccd686a0f5d5e1d530a3b8f65fb9396003",
+      "size": 29355,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.30.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
