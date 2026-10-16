@@ -570,10 +570,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solardiary-1.3.5.jar"
     },
     {
-      "path": "solarbrbcompat-1.0.0.jar",
-      "sha256": "ddcf3b3fcf4e01bf020bb5a181855fca910040514432dc73621475b50fe6a96a",
-      "size": 3093,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarbrbcompat-1.0.0.jar"
+      "path": "solarbrbcompat-1.0.1.jar",
+      "sha256": "538cdf3e6e1fd20c5b1d2ac5feaaa94aa193ebc409e1b07bc606a633d6cbddbf",
+      "size": 3004,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarbrbcompat-1.0.1.jar"
     },
     {
       "path": "solarfdcompat-1.0.1.jar",
