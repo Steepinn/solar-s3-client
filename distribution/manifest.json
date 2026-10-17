@@ -552,10 +552,10 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/solar-bumblezone-7.16.0-1.21.1-fabric.jar"
     },
     {
-      "path": "solar_ui_ru-1.0.17.jar",
-      "sha256": "ae423c06fcd4bae327be02cd7585df4d456a1c3120895653ed46cba8ebac9cb0",
-      "size": 1606404,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.17.jar"
+      "path": "solar_ui_ru-1.0.18.jar",
+      "sha256": "0762c3b954aec09572cff04d7e7eddb23eddf4afc1cd67b04741dbcbd1c6154f",
+      "size": 1606861,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.18.jar"
     },
     {
       "path": "solarauth-1.0.23.jar",
@@ -588,16 +588,16 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.0.31.jar",
-      "sha256": "dc8ce4894556a93f0a299b08e392e2f591c4aeb1abfaa20ca4a3c94f5e0de09c",
-      "size": 29363,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.31.jar"
+      "path": "solarhub-1.0.32.jar",
+      "sha256": "b016c235e91ff269851d4b12bce8152cd37a459d347ce01479628b6a92503f45",
+      "size": 29649,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.32.jar"
     },
     {
-      "path": "solarskilltree-1.0.1.jar",
-      "sha256": "edf653789538be4b890ec65344e547ec779ef6caacad1ca1a497df81d003ebb5",
-      "size": 22966,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarskilltree-1.0.1.jar"
+      "path": "solarskilltree-1.0.2.jar",
+      "sha256": "02ce0dc2e88380d0dc5a8fd4a6aaae1b10e805135249d12970dabe4b3ca9b947",
+      "size": 25447,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarskilltree-1.0.2.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
