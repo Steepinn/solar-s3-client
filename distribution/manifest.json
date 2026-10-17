@@ -564,6 +564,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.0.23.jar"
     },
     {
+      "path": "solarbrbcompat-1.0.6.jar",
+      "sha256": "21492870ebc7e119c07f3edfa3444a4dca8547e7e187a76c3a1a187e07f2018a",
+      "size": 3970,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarbrbcompat-1.0.6.jar"
+    },
+    {
       "path": "solardiary-1.3.5.jar",
       "sha256": "0ffe94b8a2b61e3e3982ca3524f1e4334ccc900b97dc87c168edb2555b9988d0",
       "size": 52737,
@@ -588,10 +594,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.31.jar"
     },
     {
-      "path": "solarskilltree-1.0.0.jar",
-      "sha256": "4ad828fa9d5ea253615ccb40a07d414a61de21ffe1ee63f4c001334a6e931db1",
-      "size": 22857,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarskilltree-1.0.0.jar"
+      "path": "solarskilltree-1.0.1.jar",
+      "sha256": "edf653789538be4b890ec65344e547ec779ef6caacad1ca1a497df81d003ebb5",
+      "size": 22966,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarskilltree-1.0.1.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
