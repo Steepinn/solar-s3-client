@@ -552,16 +552,16 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/solar-bumblezone-7.16.0-1.21.1-fabric.jar"
     },
     {
-      "path": "solar_ui_ru-1.0.18.jar",
-      "sha256": "0762c3b954aec09572cff04d7e7eddb23eddf4afc1cd67b04741dbcbd1c6154f",
-      "size": 1606861,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.18.jar"
+      "path": "solar_ui_ru-1.0.19.jar",
+      "sha256": "c054ddc8304e361ea380f0c6a3b8549c5d1888b41e8cf425465d4f5c7d8e25f3",
+      "size": 1607507,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.19.jar"
     },
     {
-      "path": "solarauth-1.0.23.jar",
-      "sha256": "5a10afbfe0a8ce4d931e6637138f71142119056d844fdcb36ccd69231d9a5207",
-      "size": 1481609,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.0.23.jar"
+      "path": "solarauth-1.0.25.jar",
+      "sha256": "8e6c512e12135337a1074e97a4128451962cbc6c07321a3b29990db0e3c2c5ab",
+      "size": 1482238,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.0.25.jar"
     },
     {
       "path": "solarbrbcompat-1.0.6.jar",
@@ -588,10 +588,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.0.32.jar",
-      "sha256": "b016c235e91ff269851d4b12bce8152cd37a459d347ce01479628b6a92503f45",
-      "size": 29649,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.32.jar"
+      "path": "solarhub-1.0.33.jar",
+      "sha256": "6c89e8dd1f73fff304ae419ee14586451d88afbcba6117389e39757fb189396c",
+      "size": 42417,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.33.jar"
     },
     {
       "path": "solarskilltree-1.0.2.jar",
