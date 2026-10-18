@@ -588,10 +588,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.0.33.jar",
-      "sha256": "6c89e8dd1f73fff304ae419ee14586451d88afbcba6117389e39757fb189396c",
-      "size": 42417,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.33.jar"
+      "path": "solarhub-1.0.34.jar",
+      "sha256": "c2cf8e0257aaa5c3a93e32a8a808b35ac67d159b9fe8b18a368232d8cc3e2ca3",
+      "size": 42486,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.34.jar"
     },
     {
       "path": "solarskilltree-1.0.2.jar",
