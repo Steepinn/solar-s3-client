@@ -169,11 +169,12 @@
       "url": "",
       "note": "",
       "jar_file": "CinematicInteraction-0.1-Fabric-1.21.1.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1792436929,
       "jar_path": "distribution/suggestion-jars/2b3b2522-4_CinematicInteraction-0.1-Fabric-1.21.1.jar",
       "has_dependency": false,
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/2b3b2522-4_CinematicInteraction-0.1-Fabric-1.21.1.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/2b3b2522-4_CinematicInteraction-0.1-Fabric-1.21.1.jar",
+      "resolved_at": 1792437064
     },
     {
       "id": "2bc9dfb8-f",
