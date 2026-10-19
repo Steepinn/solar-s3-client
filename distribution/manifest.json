@@ -18,6 +18,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
     },
     {
+      "path": "AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar",
+      "sha256": "8ddd5faafa0a66edb2f52205eaaa1a21332719c5b98ce6851a756f6b6856fba8",
+      "size": 84824008,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar"
+    },
+    {
       "path": "amendments-fabric-1.21-2.1.7.jar",
       "sha256": "1db7750238c389c9f04f0266240c8795b9301b2455c27328d9ebbb4320ca890a",
       "size": 1146713,
@@ -60,6 +66,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/BetterF3-11.0.3-Fabric-1.21.1.jar"
     },
     {
+      "path": "betterstats-3.13.9+fabric-1.21.jar",
+      "sha256": "c189ff0ca338d758948dd2c6c63152304235884fd7146b499212358762058d19",
+      "size": 442117,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/betterstats-3.13.9+fabric-1.21.jar"
+    },
+    {
       "path": "BOMD-1.10.2-1.21.1.jar",
       "sha256": "0bacd6867ef89c92307dd811ec6a5584e987ef367ab90a89c9ca2f6901fe5e97",
       "size": 2679483,
@@ -96,10 +108,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/cicada-lib-0.14.3+1.21-1.21.1.jar"
     },
     {
-      "path": "click-through-0.1.0+1.21.jar",
-      "sha256": "489e25a163e3a1766c1b4896924c04a2f600ec0bc568c0643da4642e58d82221",
-      "size": 46114,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/click-through-0.1.0+1.21.jar"
+      "path": "clickthrough-plus-fabric-3.5.1+1.21.1.jar",
+      "sha256": "e381dcc33bfa4014f6b0f054b65a1424af247d39f206f919962c97698e8de7ef",
+      "size": 65142,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/clickthrough-plus-fabric-3.5.1+1.21.1.jar"
     },
     {
       "path": "cloth-config-15.0.140-fabric.jar",
@@ -112,6 +124,12 @@
       "sha256": "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7",
       "size": 20723,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/Clumps-fabric-1.21.1-19.0.0.1.jar"
+    },
+    {
+      "path": "collective-1.21.1-8.58.jar",
+      "sha256": "a8e42eac6642861afee8cffdbef74c8b6813bc5cbec378061199c6a41a07cd0e",
+      "size": 1264546,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/collective-1.21.1-8.58.jar"
     },
     {
       "path": "common-networking-fabric-1.0.21-1.21.1.jar",
@@ -438,10 +456,22 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/Ping-Wheel-1.12.2-fabric-1.21.1.jar"
     },
     {
+      "path": "placeableblazerods-1.21.1-4.3.jar",
+      "sha256": "57e02896ab28400a16fb361a01c79d134afcc6f11b79e37f4135718a01edfcd6",
+      "size": 51254,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/placeableblazerods-1.21.1-4.3.jar"
+    },
+    {
       "path": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
       "sha256": "86ef8a23a5bc8f86d67ed37f3a93380d3946bad64123b22862ed057e7b624efd",
       "size": 204541,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/player-animation-lib-fabric-2.0.4+1.21.1.jar"
+    },
+    {
+      "path": "portalguifix-fabric-1.0.0.jar",
+      "sha256": "02c8e2932d3dbe22ee2199f6e1d88ecb8fb745cbdc54e87502768bbf2f0fdbbe",
+      "size": 12523,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/portalguifix-fabric-1.0.0.jar"
     },
     {
       "path": "prickle-fabric-1.21.1-21.1.11.jar",
@@ -496,6 +526,12 @@
       "sha256": "6e37e3de56174720cfab0d36c18fef85dd56a6955a0afac44e952b036b3de742",
       "size": 2625998,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/Resourcify (1.21.1-fabric)-1.8.5.jar"
+    },
+    {
+      "path": "screenshot_viewer-1.3.3-fabric-mc1.21.jar",
+      "sha256": "f6f966e7b4621e6bb3f873b02a0620fc4634e87c1d87685294b8ec6472c08dce",
+      "size": 281554,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/screenshot_viewer-1.3.3-fabric-mc1.21.jar"
     },
     {
       "path": "SereneSeasons-fabric-1.21.1-10.1.0.1.jar",
@@ -640,6 +676,12 @@
       "sha256": "8b8ccb302ff6ae08524c4e07bac06226e6f3fafa851925150a50e319838f6e87",
       "size": 286178,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/talking-heads-1.1.3+1.21.1+fabric.jar"
+    },
+    {
+      "path": "tcdcommons-3.12.7+fabric-1.21.jar",
+      "sha256": "5b8bae35b865656b82eb1ceac56e8c25a874997972717d7f632e21a5d7f8aff7",
+      "size": 912896,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/tcdcommons-3.12.7+fabric-1.21.jar"
     },
     {
       "path": "tide-fabric-1.21.1-2.1.jar",
