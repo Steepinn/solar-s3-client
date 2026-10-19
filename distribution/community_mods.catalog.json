@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1792449678,
+  "updated_at": 1792451130,
   "items": [
     {
       "id": "01c38121",
@@ -69,19 +69,6 @@
       "dependency_name": "MossyLib",
       "dependency_jar_file": "bc5e0e7a-5_dep_MossyLib-1.5.0+1.21.1+fabric.jar",
       "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/bc5e0e7a-5_dep_MossyLib-1.5.0%2B1.21.1%2Bfabric.jar"
-    },
-    {
-      "id": "4a4073ae",
-      "name": "JEI мод",
-      "file": "jei-1.21.1-fabric-19.69.0.456.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/jei-1.21.1-fabric-19.69.0.456.jar",
-      "sha256": "94735fb09082c92220dbd9ba91c60726328b405899fe6603a370c997386be833",
-      "description": "Список рецептов (JEI). Опционально. На SOLAR уже есть Better Recipe Book; с Envelope возможен кик — ставь только если знаешь зачем.",
-      "recommended_by": "Steepy3",
-      "added_at": 1792437141,
-      "image": "",
-      "auto_install": false,
-      "has_dependency": false
     },
     {
       "id": "44ab5931",
