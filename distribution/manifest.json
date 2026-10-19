@@ -228,10 +228,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/envelope-fabric-1.21.1-0.7.4.jar"
     },
     {
-      "path": "fabric-api-0.116.17+1.21.1.jar",
-      "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
-      "size": 2452735,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/fabric-api-0.116.17+1.21.1.jar"
+      "path": "fabric-api-0.116.14+1.21.1.jar",
+      "sha256": "333f15bceb117a0ac41e3396eac9873fa6c325c31e746d679809f9a7a0228196",
+      "size": 2451978,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/fabric-api-0.116.14+1.21.1.jar"
     },
     {
       "path": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
@@ -588,10 +588,10 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/solar-bumblezone-7.16.0-1.21.1-fabric.jar"
     },
     {
-      "path": "solar_ui_ru-1.0.19.jar",
-      "sha256": "c054ddc8304e361ea380f0c6a3b8549c5d1888b41e8cf425465d4f5c7d8e25f3",
-      "size": 1607507,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.19.jar"
+      "path": "solar_ui_ru-1.0.21.jar",
+      "sha256": "a851f06f605a8b0eb1915addee73ca2ce74dfae4aba4983978b481e5a09cad2c",
+      "size": 1608590,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.21.jar"
     },
     {
       "path": "solarauth-1.0.25.jar",
@@ -624,10 +624,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.0.41.jar",
-      "sha256": "b095251813733d843e431db236f1a619ba92c2523b81d33e6fd1cf4cabf39ef8",
-      "size": 45271,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.41.jar"
+      "path": "solarhub-1.0.42.jar",
+      "sha256": "e8283647979dd4bac05dc19234aa926c0929641a89a78cd741094beb48ef8073",
+      "size": 47156,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.42.jar"
     },
     {
       "path": "solarskilltree-1.0.2.jar",
