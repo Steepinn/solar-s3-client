@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1791660909,
+  "updated_at": 1792436871,
   "suggestions": [
     {
       "id": "ee41b988-6",
@@ -146,6 +146,20 @@
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/bc5e0e7a-5_InventoryParticles-3.0.0+1.21.1+fabric.jar",
       "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/bc5e0e7a-5_dep_MossyLib-1.5.0+1.21.1+fabric.jar",
       "resolved_at": 1791660943
+    },
+    {
+      "id": "133b4111-7",
+      "nick": "Steepy3",
+      "name": "JEI мод",
+      "description": "Данный мод добавляет список всех предметов на сервере которые как или иначе можно скрафтить или создать как то.",
+      "url": "",
+      "note": "",
+      "jar_file": "jei-1.21.1-fabric-19.69.0.456.jar",
+      "status": "pending",
+      "created_at": 1792436865,
+      "jar_path": "distribution/suggestion-jars/133b4111-7_jei-1.21.1-fabric-19.69.0.456.jar",
+      "has_dependency": false,
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/133b4111-7_jei-1.21.1-fabric-19.69.0.456.jar"
     }
   ]
 }
