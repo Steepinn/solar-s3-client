@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1792436871,
+  "updated_at": 1792436933,
   "suggestions": [
     {
       "id": "ee41b988-6",
@@ -160,6 +160,20 @@
       "jar_path": "distribution/suggestion-jars/133b4111-7_jei-1.21.1-fabric-19.69.0.456.jar",
       "has_dependency": false,
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/133b4111-7_jei-1.21.1-fabric-19.69.0.456.jar"
+    },
+    {
+      "id": "2b3b2522-4",
+      "nick": "Steepy3",
+      "name": "Cinematic Interactions",
+      "description": "Данный мод добавляет прикольные анимации для крафта, печка, чарки и всего +-",
+      "url": "",
+      "note": "",
+      "jar_file": "CinematicInteraction-0.1-Fabric-1.21.1.jar",
+      "status": "pending",
+      "created_at": 1792436929,
+      "jar_path": "distribution/suggestion-jars/2b3b2522-4_CinematicInteraction-0.1-Fabric-1.21.1.jar",
+      "has_dependency": false,
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/2b3b2522-4_CinematicInteraction-0.1-Fabric-1.21.1.jar"
     }
   ]
 }
