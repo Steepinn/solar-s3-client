@@ -155,11 +155,12 @@
       "url": "",
       "note": "",
       "jar_file": "jei-1.21.1-fabric-19.69.0.456.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1792436865,
       "jar_path": "distribution/suggestion-jars/133b4111-7_jei-1.21.1-fabric-19.69.0.456.jar",
       "has_dependency": false,
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/133b4111-7_jei-1.21.1-fabric-19.69.0.456.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/133b4111-7_jei-1.21.1-fabric-19.69.0.456.jar",
+      "resolved_at": 1792437185
     },
     {
       "id": "2b3b2522-4",
