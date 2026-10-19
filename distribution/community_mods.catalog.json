@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1792020187,
+  "updated_at": 1792436991,
   "items": [
     {
       "id": "0761b405",
@@ -107,6 +107,19 @@
       "added_at": 1791659751,
       "image": "",
       "auto_install": true,
+      "has_dependency": false
+    },
+    {
+      "id": "01c38121",
+      "name": "AKF Cinematics",
+      "file": "afk-cinematics-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/afk-cinematics-1.21.1.jar",
+      "sha256": "054984af2ed0e7a1a3acc01930a24a5a3008eb27db8e7f032b7a800868022989",
+      "description": "Добавляет прикольную анимацию мира, в момент когда вы стоите в АФК)",
+      "recommended_by": "Steepy3",
+      "added_at": 1792436991,
+      "image": "",
+      "auto_install": false,
       "has_dependency": false
     }
   ]
