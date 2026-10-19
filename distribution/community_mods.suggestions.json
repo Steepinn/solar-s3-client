@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1792436933,
+  "updated_at": 1792436982,
   "suggestions": [
     {
       "id": "ee41b988-6",
@@ -174,6 +174,20 @@
       "jar_path": "distribution/suggestion-jars/2b3b2522-4_CinematicInteraction-0.1-Fabric-1.21.1.jar",
       "has_dependency": false,
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/2b3b2522-4_CinematicInteraction-0.1-Fabric-1.21.1.jar"
+    },
+    {
+      "id": "2bc9dfb8-f",
+      "nick": "Steepy3",
+      "name": "AKF Cinematics",
+      "description": "Добавляет прикольную анимацию мира, в момент когда вы стоите в АФК)",
+      "url": "",
+      "note": "",
+      "jar_file": "afk-cinematics-1.21.1.jar",
+      "status": "pending",
+      "created_at": 1792436978,
+      "jar_path": "distribution/suggestion-jars/2bc9dfb8-f_afk-cinematics-1.21.1.jar",
+      "has_dependency": false,
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/2bc9dfb8-f_afk-cinematics-1.21.1.jar"
     }
   ]
 }
