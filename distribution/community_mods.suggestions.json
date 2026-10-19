@@ -183,11 +183,12 @@
       "url": "",
       "note": "",
       "jar_file": "afk-cinematics-1.21.1.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1792436978,
       "jar_path": "distribution/suggestion-jars/2bc9dfb8-f_afk-cinematics-1.21.1.jar",
       "has_dependency": false,
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/2bc9dfb8-f_afk-cinematics-1.21.1.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/2bc9dfb8-f_afk-cinematics-1.21.1.jar",
+      "resolved_at": 1792437023
     }
   ]
 }
