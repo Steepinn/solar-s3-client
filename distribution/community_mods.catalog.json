@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1792437141,
+  "updated_at": 1792442874,
   "items": [
     {
       "id": "01c38121",
@@ -84,6 +84,19 @@
       "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/bc5e0e7a-5_dep_MossyLib-1.5.0%2B1.21.1%2Bfabric.jar"
     },
     {
+      "id": "4a4073ae",
+      "name": "JEI мод",
+      "file": "jei-1.21.1-fabric-19.69.0.456.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/jei-1.21.1-fabric-19.69.0.456.jar",
+      "sha256": "94735fb09082c92220dbd9ba91c60726328b405899fe6603a370c997386be833",
+      "description": "Данный мод добавляет список всех предметов на сервере которые как или иначе можно скрафтить или создать как то.",
+      "recommended_by": "Steepy3",
+      "added_at": 1792437141,
+      "image": "",
+      "auto_install": false,
+      "has_dependency": false
+    },
+    {
       "id": "44ab5931",
       "name": "Spatial GUI 1.5",
       "file": "spatial-gui-1.5+1.21.1-fabric-1.5.jar",
@@ -120,32 +133,6 @@
       "added_at": 1791659855,
       "image": "",
       "auto_install": true,
-      "has_dependency": false
-    },
-    {
-      "id": "311744e7",
-      "name": "Тёмный экран загрузки Mojang",
-      "file": "dark-loading-screen-1.6.14.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/dark-loading-screen-1.6.14.jar",
-      "sha256": "dd8a1850675a185d013fac3afa0675a6422e5d8f89c0e421d83e23ca9b1c0b76",
-      "description": "Данный мод просто делает красный экран Mojang - черным)",
-      "recommended_by": "Steepy3",
-      "added_at": 1791659751,
-      "image": "",
-      "auto_install": true,
-      "has_dependency": false
-    },
-    {
-      "id": "4a4073ae",
-      "name": "JEI мод",
-      "file": "jei-1.21.1-fabric-19.69.0.456.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/jei-1.21.1-fabric-19.69.0.456.jar",
-      "sha256": "94735fb09082c92220dbd9ba91c60726328b405899fe6603a370c997386be833",
-      "description": "Данный мод добавляет список всех предметов на сервере которые как или иначе можно скрафтить или создать как то.",
-      "recommended_by": "Steepy3",
-      "added_at": 1792437141,
-      "image": "",
-      "auto_install": false,
       "has_dependency": false
     }
   ]
