@@ -8,7 +8,7 @@
       "file": "afk-cinematics-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/afk-cinematics-1.21.1.jar",
       "sha256": "054984af2ed0e7a1a3acc01930a24a5a3008eb27db8e7f032b7a800868022989",
-      "description": "Добавляет прикольную анимацию мира, в момент когда вы стоите в АФК)",
+      "description": "АФК-камера только у тебя (client-only). На сервер ставить не нужно — включаешь в мастерской по желанию.",
       "recommended_by": "Steepy3",
       "added_at": 1792436991,
       "image": "",
@@ -21,12 +21,13 @@
       "file": "CinematicInteraction-0.1-Fabric-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/CinematicInteraction-0.1-Fabric-1.21.1.jar",
       "sha256": "0d08e45b8432740f4fb9235b7c96ad1c49c64501ae1bf1277783779fb28a9f87",
-      "description": "Данный мод добавляет прикольные анимации для крафта, печка, чарки и всего +-",
+      "description": "Анимации верстака/печи/чар. ВАЖНО: mod client+server — на SOLAR S3 сервере его нет. Не включай, иначе кик. Работает только если админ положит тот же jar в mods сервера (тогда mod нужен всем).",
       "recommended_by": "Steepy3",
       "added_at": 1792437027,
       "image": "",
       "auto_install": false,
-      "has_dependency": false
+      "has_dependency": false,
+      "requires_server_match": true
     },
     {
       "id": "0761b405",
@@ -89,7 +90,7 @@
       "file": "jei-1.21.1-fabric-19.69.0.456.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/jei-1.21.1-fabric-19.69.0.456.jar",
       "sha256": "94735fb09082c92220dbd9ba91c60726328b405899fe6603a370c997386be833",
-      "description": "Данный мод добавляет список всех предметов на сервере которые как или иначе можно скрафтить или создать как то.",
+      "description": "Список рецептов (JEI). Опционально. На SOLAR уже есть Better Recipe Book; с Envelope возможен кик — ставь только если знаешь зачем.",
       "recommended_by": "Steepy3",
       "added_at": 1792437141,
       "image": "",
