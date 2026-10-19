@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1792437027,
+  "updated_at": 1792437141,
   "items": [
     {
       "id": "01c38121",
@@ -11,6 +11,19 @@
       "description": "Добавляет прикольную анимацию мира, в момент когда вы стоите в АФК)",
       "recommended_by": "Steepy3",
       "added_at": 1792436991,
+      "image": "",
+      "auto_install": false,
+      "has_dependency": false
+    },
+    {
+      "id": "d1591034",
+      "name": "Cinematic Interactions",
+      "file": "CinematicInteraction-0.1-Fabric-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/CinematicInteraction-0.1-Fabric-1.21.1.jar",
+      "sha256": "0d08e45b8432740f4fb9235b7c96ad1c49c64501ae1bf1277783779fb28a9f87",
+      "description": "Данный мод добавляет прикольные анимации для крафта, печка, чарки и всего +-",
+      "recommended_by": "Steepy3",
+      "added_at": 1792437027,
       "image": "",
       "auto_install": false,
       "has_dependency": false
@@ -123,14 +136,14 @@
       "has_dependency": false
     },
     {
-      "id": "d1591034",
-      "name": "Cinematic Interactions",
-      "file": "CinematicInteraction-0.1-Fabric-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/CinematicInteraction-0.1-Fabric-1.21.1.jar",
-      "sha256": "0d08e45b8432740f4fb9235b7c96ad1c49c64501ae1bf1277783779fb28a9f87",
-      "description": "Данный мод добавляет прикольные анимации для крафта, печка, чарки и всего +-",
+      "id": "4a4073ae",
+      "name": "JEI мод",
+      "file": "jei-1.21.1-fabric-19.69.0.456.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/jei-1.21.1-fabric-19.69.0.456.jar",
+      "sha256": "94735fb09082c92220dbd9ba91c60726328b405899fe6603a370c997386be833",
+      "description": "Данный мод добавляет список всех предметов на сервере которые как или иначе можно скрафтить или создать как то.",
       "recommended_by": "Steepy3",
-      "added_at": 1792437027,
+      "added_at": 1792437141,
       "image": "",
       "auto_install": false,
       "has_dependency": false
