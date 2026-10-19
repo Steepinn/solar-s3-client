@@ -21,7 +21,7 @@
       "path": "AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar",
       "sha256": "8ddd5faafa0a66edb2f52205eaaa1a21332719c5b98ce6851a756f6b6856fba8",
       "size": 84824008,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar"
+      "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar"
     },
     {
       "path": "amendments-fabric-1.21-2.1.7.jar",
