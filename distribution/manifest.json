@@ -324,12 +324,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/iris-fabric-1.8.14-beta.1+mc1.21.1.jar"
     },
     {
-      "path": "IronChests-2.0.4.jar",
-      "sha256": "1829b11371aa462bd3f5f7416fd5460fd2cd8642631921ae17bcd713a3476f54",
-      "size": 582972,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/IronChests-2.0.4.jar"
-    },
-    {
       "path": "krypton-0.2.8.jar",
       "sha256": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe",
       "size": 161045,
@@ -450,6 +444,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/particle_core-0.3.3+1.21.jar"
     },
     {
+      "path": "PassiveSkillTree-Fabric-1.21.1-0.7.6+c.jar",
+      "sha256": "332f32f04968299c3b2e7afd651d2608409e208a8a3c681e9118d46506ff23ed",
+      "size": 2011779,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/PassiveSkillTree-Fabric-1.21.1-0.7.6+c.jar"
+    },
+    {
       "path": "Ping-Wheel-1.12.2-fabric-1.21.1.jar",
       "sha256": "9ba63ca5f33c86d0ce3aec2b04fafcc2fbcb8e705e46a7be20ff66382331c3e3",
       "size": 152703,
@@ -478,12 +478,6 @@
       "sha256": "d6d639078aecb72770f287d8253e4634114e2536ac9a2ad6ec5f442eb27dd07f",
       "size": 87229,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/prickle-fabric-1.21.1-21.1.11.jar"
-    },
-    {
-      "path": "puffish_skills-0.19.1-1.21-fabric.jar",
-      "sha256": "3225697016632cce5a3207ae4c1c0f0f19bf135f76ee714c9e46ecabd306b5ac",
-      "size": 644067,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/puffish_skills-0.19.1-1.21-fabric.jar"
     },
     {
       "path": "pumpkin_pie_delight-1.0.2+1.21.jar",
@@ -588,10 +582,10 @@
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/solar-bumblezone-7.16.0-1.21.1-fabric.jar"
     },
     {
-      "path": "solar_ui_ru-1.0.23.jar",
-      "sha256": "ffd47705fbeaa8b6cc9a92e20aa84c7700db8cb654e5abfa6e89999926ca920a",
-      "size": 1608625,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.23.jar"
+      "path": "solar_ui_ru-1.0.24.jar",
+      "sha256": "157a0c278287712b4e3b1f1c8c8fb93f5b015ba66ab7453ab1a3bed0f2d143eb",
+      "size": 1615582,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.24.jar"
     },
     {
       "path": "solarauth-1.0.25.jar",
@@ -624,16 +618,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.0.46.jar",
-      "sha256": "1be80cba93134b22b381a7d9e6c7beb3d86d3701cf2d72f56f3d9c512b7dba53",
-      "size": 46898,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.46.jar"
-    },
-    {
-      "path": "solarskilltree-1.0.2.jar",
-      "sha256": "02ce0dc2e88380d0dc5a8fd4a6aaae1b10e805135249d12970dabe4b3ca9b947",
-      "size": 25447,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarskilltree-1.0.2.jar"
+      "path": "solarhub-1.0.47.jar",
+      "sha256": "d8aa11a0d19f07f643a7101b5f5ba70cfbd1305481f24552777cdafe4f67559e",
+      "size": 33220,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.47.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
