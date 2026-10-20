@@ -451,8 +451,8 @@
                   },
                   {
                       "path":  "PassiveSkillTree-Fabric-1.21.1-0.7.6+c.jar",
-                      "sha256":  "61625990572af050c6e97b31357b48c39e857481cb6ec02b51b55814ae94eea2",
-                      "size":  2011809,
+                      "sha256":  "332f32f04968299c3b2e7afd651d2608409e208a8a3c681e9118d46506ff23ed",
+                      "size":  2011779,
                       "url":  "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/PassiveSkillTree-Fabric-1.21.1-0.7.6+c.jar"
                   },
                   {
