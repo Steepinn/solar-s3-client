@@ -486,12 +486,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/prickle-fabric-1.21.1-21.1.11.jar"
     },
     {
-      "path": "puffish_skills-0.19.1-1.21-fabric.jar",
-      "sha256": "3225697016632cce5a3207ae4c1c0f0f19bf135f76ee714c9e46ecabd306b5ac",
-      "size": 644067,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/puffish_skills-0.19.1-1.21-fabric.jar"
-    },
-    {
       "path": "pumpkin_pie_delight-1.0.2+1.21.jar",
       "sha256": "d451d5255eb01c5c493f563af79c44fb96f67d2fdc5ccc6c085e9218089375bf",
       "size": 25735,
