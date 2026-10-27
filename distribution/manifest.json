@@ -462,12 +462,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/prickle-fabric-1.21.1-21.1.11.jar"
     },
     {
-      "path": "puffish_skills-0.19.1-1.21-fabric.jar",
-      "sha256": "3225697016632cce5a3207ae4c1c0f0f19bf135f76ee714c9e46ecabd306b5ac",
-      "size": 644067,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/puffish_skills-0.19.1-1.21-fabric.jar"
-    },
-    {
       "path": "pumpkin_pie_delight-1.0.2+1.21.jar",
       "sha256": "d451d5255eb01c5c493f563af79c44fb96f67d2fdc5ccc6c085e9218089375bf",
       "size": 25735,
@@ -598,12 +592,6 @@
       "sha256": "d8aa11a0d19f07f643a7101b5f5ba70cfbd1305481f24552777cdafe4f67559e",
       "size": 33220,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.47.jar"
-    },
-    {
-      "path": "solarskilltree-1.0.2.jar",
-      "sha256": "0437206e344d05da52bbca6aad33adbc13ef22834ba56c193c4cdda33d2421d9",
-      "size": 25644,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarskilltree-1.0.2.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
