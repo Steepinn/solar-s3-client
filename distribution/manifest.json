@@ -462,6 +462,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/placeableblazerods-1.21.1-4.3.jar"
     },
     {
+      "path": "PassiveSkillTree-Fabric-1.21.1-0.7.6+c.jar",
+      "sha256": "80873d848367329547348fb6832c288fec6c8b504074bec2fe2b0332666f0888",
+      "size": 2012594,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/PassiveSkillTree-Fabric-1.21.1-0.7.6+c.jar"
+    },
+    {
       "path": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
       "sha256": "86ef8a23a5bc8f86d67ed37f3a93380d3946bad64123b22862ed057e7b624efd",
       "size": 204541,
