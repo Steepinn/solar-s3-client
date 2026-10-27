@@ -600,6 +600,18 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.0.47.jar"
     },
     {
+      "path": "PassiveSkillTree-Fabric-1.21.1-0.7.6+c.jar",
+      "sha256": "61625990572af050c6e97b31357b48c39e857481cb6ec02b51b55814ae94eea2",
+      "size": 2011809,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/PassiveSkillTree-Fabric-1.21.1-0.7.6%2Bc.jar"
+    },
+    {
+      "path": "puffish_skills-0.19.1-1.21-fabric.jar",
+      "sha256": "3225697016632cce5a3207ae4c1c0f0f19bf135f76ee714c9e46ecabd306b5ac",
+      "size": 644067,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/puffish_skills-0.19.1-1.21-fabric.jar"
+    },
+    {
       "path": "solarskilltree-1.0.2.jar",
       "sha256": "0437206e344d05da52bbca6aad33adbc13ef22834ba56c193c4cdda33d2421d9",
       "size": 25644,
