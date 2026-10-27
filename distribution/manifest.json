@@ -432,12 +432,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/particle_core-0.3.3%2B1.21.jar"
     },
     {
-      "path": "PassiveSkillTree-Fabric-1.21.1-0.7.6+c-solar-arclight.jar",
-      "sha256": "017a653745fd5c69c9d5dabc874a916edd8a74ca6845d3c585c21a64e6e88138",
-      "size": 2011804,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/PassiveSkillTree-Fabric-1.21.1-0.7.6%2Bc-solar-arclight.jar"
-    },
-    {
       "path": "PassiveSkillTree-Fabric-1.21.1-0.7.6+c.jar",
       "sha256": "61625990572af050c6e97b31357b48c39e857481cb6ec02b51b55814ae94eea2",
       "size": 2011809,
@@ -520,12 +514,6 @@
       "sha256": "9bea79558e9c2fb0aeddbeb04f75fa76b395466662daefa1ff7bb13bf63be052",
       "size": 997225,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/simpleradio-fabric-1.21.1-4.4.7.9.jar"
-    },
-    {
-      "path": "sleep_tight-1.21-1.4.1-fabric-solar-arclight.jar",
-      "sha256": "d8184cafbf291ba38fce89f85b2bebe55e806dad7b51764010c82be82379718a",
-      "size": 771243,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/sleep_tight-1.21-1.4.1-fabric-solar-arclight.jar"
     },
     {
       "path": "SmartBrainLib-fabric-1.21.1-1.16.11.jar",
