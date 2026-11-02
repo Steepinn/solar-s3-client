@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1792451130,
+  "updated_at": 1793661356,
   "items": [
     {
       "id": "01c38121",
@@ -45,8 +45,8 @@
       "id": "fed56777",
       "name": "FWA мод",
       "file": "fwa+1.21.1-1.2.31.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/fwa%2B1.21.1-1.2.31.jar",
-      "sha256": "95781d8490b5ab1e39afde56abc8685e5b94a6c1179d23ce86f5bb5dd9f253df",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/fwa%2B1.21.1-1.2.31.jar",
+      "sha256": "c9edbdbd35f693c53550b1ba104506af7ac8b3d1c2e19da9def9dbd1a37d2354",
       "description": "Данный мод добавляет анимации миру Minecraft. Начиная от дверей и заканчивая лампами и так далее.",
       "recommended_by": "Steepy3",
       "added_at": 1791659781,
