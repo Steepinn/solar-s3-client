@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.8",
   "notes": "Обновление через авто-загрузку SolarLauncher.exe.",
   "setup_name": "SolarSetup.exe",
   "launcher_exe_name": "SolarLauncher.exe",
