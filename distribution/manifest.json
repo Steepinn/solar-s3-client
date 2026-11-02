@@ -18,6 +18,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
     },
     {
+      "path": "afk-cinematics-1.21.1.jar",
+      "size": 43564,
+      "sha256": "054984af2ed0e7a1a3acc01930a24a5a3008eb27db8e7f032b7a800868022989",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/afk-cinematics-1.21.1.jar"
+    },
+    {
       "path": "amendments-fabric-1.21-2.1.7.jar",
       "sha256": "1db7750238c389c9f04f0266240c8795b9301b2455c27328d9ebbb4320ca890a",
       "size": 1146713,
@@ -96,6 +102,18 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/cicada-lib-0.14.3%2B1.21-1.21.1.jar"
     },
     {
+      "path": "cinematic_respawn-1.21.1-fabric-1.4.3.jar",
+      "size": 171489,
+      "sha256": "495871ce520b6b0d564b208697d8af9fcccd7090bec77302bce554b34bd01432",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/cinematic_respawn-1.21.1-fabric-1.4.3.jar"
+    },
+    {
+      "path": "CinematicInteraction-0.1-Fabric-1.21.1.jar",
+      "size": 819808,
+      "sha256": "0d08e45b8432740f4fb9235b7c96ad1c49c64501ae1bf1277783779fb28a9f87",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/CinematicInteraction-0.1-Fabric-1.21.1.jar"
+    },
+    {
       "path": "click-through-0.1.0+1.21.jar",
       "sha256": "489e25a163e3a1766c1b4896924c04a2f600ec0bc568c0643da4642e58d82221",
       "size": 46114,
@@ -118,6 +136,12 @@
       "sha256": "87dc5bc3fe57b7e0f88cea0e9a05b414cedcf2fcf0276758ef9ca7e3fb3d462b",
       "size": 26543,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/common-networking-fabric-1.0.21-1.21.1.jar"
+    },
+    {
+      "path": "connectiblechains-2.5.7+1.21.1.jar",
+      "size": 537471,
+      "sha256": "f2b98b471212fbef4d5ec4b3c26bb5b3c6f0a8d0db21f6993831a45a2f917754",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/connectiblechains-2.5.7%2B1.21.1.jar"
     },
     {
       "path": "continuity-3.0.0+1.21.jar",
@@ -154,6 +178,12 @@
       "sha256": "f66b13835282603bd6f8902faa5142e1311bb6393496b04a5df7008415b2fdf8",
       "size": 217532,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+    },
+    {
+      "path": "eating-animation-1.21+1.9.72.jar",
+      "size": 1060520,
+      "sha256": "0290d5c286dc10bf5d402ed7a28f17af5a06973d6a69ae73c6dcaceae79e5456",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/eating-animation-1.21%2B1.9.72.jar"
     },
     {
       "path": "Emojiful-Fabric-1.21-5.2.4.jar",
@@ -211,8 +241,8 @@
     },
     {
       "path": "fabric-api-0.116.17+1.21.1.jar",
-      "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
       "size": 2452735,
+      "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/fabric-api-0.116.17%2B1.21.1.jar"
     },
     {
@@ -462,10 +492,16 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/pumpkin_pie_delight-1.0.2%2B1.21.jar"
     },
     {
-      "path": "QuickSkin-1.21.1-2.6.2.4.jar",
-      "sha256": "96ea072bd28a182b6f904af40b788e48886c1d441d3e3c79c8e8df7814a20774",
-      "size": 4905627,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/QuickSkin-1.21.1-2.6.2.4.jar"
+      "path": "Quick Skin - Fabric - 1.21.1-4.0.0.jar",
+      "size": 5698282,
+      "sha256": "5ac58432aaa0a0bbd6271c1a2ecb5ca23970027080fdb06f6c02055a471eeb42",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/Quick%20Skin%20-%20Fabric%20-%201.21.1-4.0.0.jar"
+    },
+    {
+      "path": "raised-fabric-1.21.1-6.0.2.jar",
+      "size": 136748,
+      "sha256": "7cf4c5254ab93175d0b3bb926899c08578391a8622544290b2c2b58a0079c346",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/raised-fabric-1.21.1-6.0.2.jar"
     },
     {
       "path": "ranged_weapon_api-fabric-2.3.3+1.21.1.jar",
@@ -570,6 +606,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarbrbcompat-1.0.6.jar"
     },
     {
+      "path": "solarcosmetics-1.0.0.jar",
+      "size": 38701,
+      "sha256": "8b509b942642b8535b3984bc0a43f28be672fb3bec3ca1fe549494e886d98bee",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarcosmetics-1.0.0.jar"
+    },
+    {
       "path": "solardiary-1.3.10.jar",
       "sha256": "9a8f88debc2d21e726aaaf92b9a326a1b2465043ee8d7bd0ffd621d60a96c33f",
       "size": 59024,
@@ -630,10 +672,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/talking-heads-1.1.3%2B1.21.1%2Bfabric.jar"
     },
     {
-      "path": "tide-fabric-1.21.1-2.1.jar",
-      "sha256": "98be3ce6da4f16e3af6ec981cf47e466b3f40f4121efb810941acd7b992283a8",
-      "size": 2199255,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/tide-fabric-1.21.1-2.1.jar"
+      "path": "tide-fabric-1.21.1-2.1.1.jar",
+      "size": 2236420,
+      "sha256": "498a5e8dda940866c9b0decadf7960724ef489fb49215b30f70c18d12f07b1c8",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/tide-fabric-1.21.1-2.1.1.jar"
     },
     {
       "path": "trinkets-3.10.0.jar",
