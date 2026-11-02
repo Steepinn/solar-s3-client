@@ -175,8 +175,8 @@
     },
     {
       "path": "enhancedblockentities-0.10.2+1.21.jar",
-      "sha256": "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679",
-      "size": 201157,
+      "sha256": "3e9fdd48a8de76421856472532fafb1eb6900e8d7c5d9447257002dd73f0ead5",
+      "size": 201172,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/enhancedblockentities-0.10.2%2B1.21.jar"
     },
     {
@@ -433,8 +433,8 @@
     },
     {
       "path": "PassiveSkillTree-Fabric-1.21.1-0.7.6+c.jar",
-      "sha256": "61625990572af050c6e97b31357b48c39e857481cb6ec02b51b55814ae94eea2",
-      "size": 2011809,
+      "sha256": "05f4e879b320be6fcb1f8c18177bdd8ab667318c20b860a138c332c93b3e3978",
+      "size": 2011837,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/PassiveSkillTree-Fabric-1.21.1-0.7.6%2Bc.jar"
     },
     {
@@ -496,6 +496,12 @@
       "sha256": "6e37e3de56174720cfab0d36c18fef85dd56a6955a0afac44e952b036b3de742",
       "size": 2625998,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/Resourcify%20%281.21.1-fabric%29-1.8.5.jar"
+    },
+    {
+      "path": "screenshotgallery-fabric-1.2.jar",
+      "sha256": "c1d6d9f640a1eb483292a1af2b5ee49e1b8bead363dbd6d5b7f2824d614dc253",
+      "size": 68430,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/screenshotgallery-fabric-1.2.jar"
     },
     {
       "path": "SereneSeasons-fabric-1.21.1-10.1.0.1.jar",
