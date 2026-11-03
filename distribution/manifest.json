@@ -618,10 +618,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarbrbcompat-1.0.6.jar"
     },
     {
-      "path": "solarcosmetics-1.3.1.jar",
-      "size": 3607975,
-      "sha256": "34407951c7758af653068b3c8ad68855ff116a8b8d903d25db281a7b35793535",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarcosmetics-1.3.1.jar"
+      "path": "solarcosmetics-1.3.2.jar",
+      "size": 6273815,
+      "sha256": "6278346d542b6de831cff64128f7e99e63b6bb57a45a54bba2d061f1be8cd63b",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarcosmetics-1.3.2.jar"
     },
     {
       "path": "solardiary-1.3.10.jar",
@@ -648,10 +648,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartideocean-1.0.1.jar"
     },
     {
-      "path": "solartitle-1.0.23.jar",
-      "size": 167968,
-      "sha256": "d2f5c864ebf823aec7895b6228d1e66f5f4ee6230be6fd6ed4810b9d1c573e7f",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.23.jar"
+      "path": "solartitle-1.0.24.jar",
+      "size": 2833624,
+      "sha256": "5fff076c734a7e45d8d99e5a9c9828ba9e6ec6415dde26908545e554a603ea4e",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.0.24.jar"
     },
     {
       "path": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
@@ -786,5 +786,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1793709242938
+  "revision": 1793710956312
 }
