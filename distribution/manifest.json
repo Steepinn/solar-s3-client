@@ -798,5 +798,14 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1793764401826
+  "revision": 1793797689718,
+  "required_resource_packs": [
+    {
+      "file": "EmissiveTrimArmors-1.21.zip",
+      "url": "https://cdn.modrinth.com/data/K9Je2N5x/versions/3NvYwARj/EmissiveTrimArmors%201.21.zip",
+      "sha256": "b9feda79e768b3105eb2c7ee6d1bab21fc64020b4c566c6de29682498c9fad97",
+      "name": "Emissive Trim Armors",
+      "required_for_launch": true
+    }
+  ]
 }
