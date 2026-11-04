@@ -648,10 +648,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfdcompat-1.0.1.jar"
     },
     {
-      "path": "solarhub-1.4.9.jar",
-      "size": 570086,
-      "sha256": "3821e63f4c9eff0c1d9aa0fcb9cbe098eb7cb22d17ba90b66c6f51337851749b",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.4.9.jar"
+      "path": "solarhub-1.4.10.jar",
+      "size": 570313,
+      "sha256": "689ae69dd8e0de1c44280a36a597cd194f488c41153be59a9e7dcedd2cb9da39",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.4.10.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
@@ -798,7 +798,7 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1793797689718,
+  "revision": 1793826955676,
   "required_resource_packs": [
     {
       "file": "EmissiveTrimArmors-1.21.zip",
