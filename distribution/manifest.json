@@ -625,8 +625,8 @@
     },
     {
       "path": "solarauth-1.1.0.jar",
-      "sha256": "f77aaed5f67b7ee6cd48acc24064854263ae4bf35028781957bd17b2bf1f60dd",
-      "size": 1561860,
+      "sha256": "5b7ba8750a8e3e8886dff65f35f84e71ba2490bedb7939e3f107bc3c5a274dcb",
+      "size": 1561710,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.1.0.jar"
     },
     {
