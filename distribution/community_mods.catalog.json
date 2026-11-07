@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1793661356,
+  "updated_at": 1794083589,
   "items": [
     {
       "id": "01c38121",
@@ -108,6 +108,21 @@
       "image": "",
       "auto_install": true,
       "has_dependency": false
+    },
+    {
+      "id": "10b6d544",
+      "name": "Item Physic мод",
+      "file": "ItemPhysic_FABRIC_v1.8.17_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/ItemPhysic_FABRIC_v1.8.17_mc1.21.1.jar",
+      "sha256": "feecca2e8f5f283defeb7d72c91139beea4ed095b8d00cf888829c3db791b555",
+      "description": "Добавляет физику предметам на полу.",
+      "recommended_by": "Steepy3",
+      "added_at": 1794083589,
+      "image": "",
+      "auto_install": false,
+      "has_dependency": true,
+      "dependency_jar_file": "43d38619-0_dep_CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
+      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/43d38619-0_dep_CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar"
     }
   ]
 }
