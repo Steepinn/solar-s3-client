@@ -219,11 +219,12 @@
       "url": "",
       "note": "",
       "jar_file": "armorstatus-1.0.0.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1794084531,
       "jar_path": "distribution/suggestion-jars/7caa86ab-f_armorstatus-1.0.0.jar",
       "has_dependency": false,
-      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/7caa86ab-f_armorstatus-1.0.0.jar"
+      "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/7caa86ab-f_armorstatus-1.0.0.jar",
+      "resolved_at": 1794084635
     },
     {
       "id": "903f0d7e-3",
