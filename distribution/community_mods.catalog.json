@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1794084672,
+  "updated_at": 1794084980,
   "items": [
     {
       "id": "01c38121",
@@ -27,6 +27,21 @@
       "image": "",
       "auto_install": false,
       "has_dependency": false
+    },
+    {
+      "id": "3d6da7e2",
+      "name": "Block Animations",
+      "file": "stupid-block-animations-0.1.3+1.21.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/stupid-block-animations-0.1.3%2B1.21.1-fabric.jar",
+      "sha256": "e4fca0ba31462f9057f0466324bfb8883e88fe61eb8514c7421907ea4c9fd979",
+      "description": "Добавляет анимации при постановке блоков",
+      "recommended_by": "Steepy3",
+      "added_at": 1794084671,
+      "image": "",
+      "auto_install": false,
+      "has_dependency": true,
+      "dependency_jar_file": "903f0d7e-3_dep_yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/903f0d7e-3_dep_yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
     },
     {
       "id": "0761b405",
@@ -84,21 +99,6 @@
       "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/bc5e0e7a-5_dep_MossyLib-1.5.0%2B1.21.1%2Bfabric.jar"
     },
     {
-      "id": "10b6d544",
-      "name": "Item Physic мод",
-      "file": "ItemPhysic_FABRIC_v1.8.17_mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/ItemPhysic_FABRIC_v1.8.17_mc1.21.1.jar",
-      "sha256": "feecca2e8f5f283defeb7d72c91139beea4ed095b8d00cf888829c3db791b555",
-      "description": "Добавляет физику предметам на полу.",
-      "recommended_by": "Steepy3",
-      "added_at": 1794083589,
-      "image": "",
-      "auto_install": false,
-      "has_dependency": true,
-      "dependency_jar_file": "43d38619-0_dep_CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
-      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/43d38619-0_dep_CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar"
-    },
-    {
       "id": "44ab5931",
       "name": "Spatial GUI 1.5",
       "file": "spatial-gui-1.5+1.21.1-fabric-1.5.jar",
@@ -136,21 +136,6 @@
       "image": "",
       "auto_install": true,
       "has_dependency": false
-    },
-    {
-      "id": "3d6da7e2",
-      "name": "Block Animations",
-      "file": "stupid-block-animations-0.1.3+1.21.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/stupid-block-animations-0.1.3%2B1.21.1-fabric.jar",
-      "sha256": "e4fca0ba31462f9057f0466324bfb8883e88fe61eb8514c7421907ea4c9fd979",
-      "description": "Добавляет анимации при постановке блоков",
-      "recommended_by": "Steepy3",
-      "added_at": 1794084671,
-      "image": "",
-      "auto_install": false,
-      "has_dependency": true,
-      "dependency_jar_file": "903f0d7e-3_dep_yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
-      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/903f0d7e-3_dep_yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
     }
   ]
 }
