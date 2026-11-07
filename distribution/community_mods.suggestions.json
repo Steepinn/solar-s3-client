@@ -234,7 +234,7 @@
       "url": "",
       "note": "",
       "jar_file": "stupid-block-animations-0.1.3+1.21.1-fabric.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1794084584,
       "jar_path": "distribution/suggestion-jars/903f0d7e-3_stupid-block-animations-0.1.3+1.21.1-fabric.jar",
       "has_dependency": true,
@@ -242,7 +242,8 @@
       "dependency_name": "",
       "dependency_jar_path": "distribution/suggestion-jars/903f0d7e-3_dep_yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/903f0d7e-3_stupid-block-animations-0.1.3+1.21.1-fabric.jar",
-      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/903f0d7e-3_dep_yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
+      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/903f0d7e-3_dep_yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "resolved_at": 1794084716
     }
   ]
 }
