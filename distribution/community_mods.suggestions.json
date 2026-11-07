@@ -200,7 +200,7 @@
       "url": "",
       "note": "",
       "jar_file": "ItemPhysic_FABRIC_v1.8.17_mc1.21.1.jar",
-      "status": "pending",
+      "status": "approved",
       "created_at": 1794083577,
       "jar_path": "distribution/suggestion-jars/43d38619-0_ItemPhysic_FABRIC_v1.8.17_mc1.21.1.jar",
       "has_dependency": true,
@@ -208,7 +208,8 @@
       "dependency_name": "",
       "dependency_jar_path": "distribution/suggestion-jars/43d38619-0_dep_CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
       "jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/43d38619-0_ItemPhysic_FABRIC_v1.8.17_mc1.21.1.jar",
-      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/43d38619-0_dep_CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar"
+      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/suggestion-jars/43d38619-0_dep_CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
+      "resolved_at": 1794083626
     }
   ]
 }
