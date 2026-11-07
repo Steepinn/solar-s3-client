@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": 1794084595,
+  "updated_at": 1794084672,
   "items": [
     {
       "id": "01c38121",
@@ -11,6 +11,19 @@
       "description": "АФК-камера только у тебя (client-only). На сервер ставить не нужно — включаешь в мастерской по желанию.",
       "recommended_by": "Steepy3",
       "added_at": 1792436991,
+      "image": "",
+      "auto_install": false,
+      "has_dependency": false
+    },
+    {
+      "id": "76eb1c5b",
+      "name": "Armor Status мод",
+      "file": "armorstatus-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/armorstatus-1.0.0.jar",
+      "sha256": "4357e56924d60ad873a1ce61604c15a18db5ca6c4901212bedb9e60a6083dce1",
+      "description": "Добавляет простую статистику брони",
+      "recommended_by": "Steepy3",
+      "added_at": 1794084595,
       "image": "",
       "auto_install": false,
       "has_dependency": false
@@ -125,17 +138,19 @@
       "has_dependency": false
     },
     {
-      "id": "76eb1c5b",
-      "name": "Armor Status мод",
-      "file": "armorstatus-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/armorstatus-1.0.0.jar",
-      "sha256": "4357e56924d60ad873a1ce61604c15a18db5ca6c4901212bedb9e60a6083dce1",
-      "description": "Добавляет простую статистику брони",
+      "id": "3d6da7e2",
+      "name": "Block Animations",
+      "file": "stupid-block-animations-0.1.3+1.21.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/stupid-block-animations-0.1.3%2B1.21.1-fabric.jar",
+      "sha256": "e4fca0ba31462f9057f0466324bfb8883e88fe61eb8514c7421907ea4c9fd979",
+      "description": "Добавляет анимации при постановке блоков",
       "recommended_by": "Steepy3",
-      "added_at": 1794084595,
+      "added_at": 1794084671,
       "image": "",
       "auto_install": false,
-      "has_dependency": false
+      "has_dependency": true,
+      "dependency_jar_file": "903f0d7e-3_dep_yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "dependency_jar_url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/903f0d7e-3_dep_yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
     }
   ]
 }
