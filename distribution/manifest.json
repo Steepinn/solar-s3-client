@@ -528,12 +528,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/prickle-fabric-1.21.1-21.1.11.jar"
     },
     {
-      "path": "pumpkin_pie_delight-1.0.2+1.21.jar",
-      "sha256": "d451d5255eb01c5c493f563af79c44fb96f67d2fdc5ccc6c085e9218089375bf",
-      "size": 25735,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/pumpkin_pie_delight-1.0.2%2B1.21.jar"
-    },
-    {
       "path": "Quick Skin - Fabric - 1.21.1-4.0.0.jar",
       "sha256": "5ac58432aaa0a0bbd6271c1a2ecb5ca23970027080fdb06f6c02055a471eeb42",
       "size": 5698282,
@@ -810,5 +804,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1794340632394
+  "revision": 1794341104401
 }
