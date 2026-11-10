@@ -630,10 +630,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.24.jar"
     },
     {
-      "path": "solarauth-1.1.1.jar",
-      "size": 1561923,
-      "sha256": "b1d8495815efb1797a38a32987285b60450c6be46e2d7ca0d6c209fdece1530d",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.1.1.jar"
+      "path": "solarauth-1.1.2.jar",
+      "size": 1562013,
+      "sha256": "468392a6a139c64c7f703767dc090d1798d0b2e76f19145672a337c8c04e3d41",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.1.2.jar"
     },
     {
       "path": "solarbrbcompat-1.0.6.jar",
@@ -810,5 +810,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1794271399319
+  "revision": 1794271805961
 }
