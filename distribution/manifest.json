@@ -690,10 +690,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/spark-1.10.109-fabric.jar"
     },
     {
-      "path": "SPdrug-mod-1.9.7.jar",
-      "size": 390797,
-      "sha256": "f6983a28cc8631e4cffba463ad36f32a86017e3cf8e7536c1fe88c0d50df2f12",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPdrug-mod-1.9.7.jar"
+      "path": "SPdrug-mod-1.9.8.jar",
+      "size": 386773,
+      "sha256": "8b1df438e92a6a9ef3bae6b1d651fa865c1763c422219a3ec3cf98fbb0948a05",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPdrug-mod-1.9.8.jar"
     },
     {
       "path": "structure_layout_optimizer-fabric-1.0.12.jar",
@@ -816,5 +816,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1794430652911
+  "revision": 1794433800172
 }
