@@ -25,8 +25,8 @@
     },
     {
       "path": "AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar",
-      "size": 84824008,
       "sha256": "8ddd5faafa0a66edb2f52205eaaa1a21332719c5b98ce6851a756f6b6856fba8",
+      "size": 84824008,
       "url": "https://github.com/Steepinn/solar-s3-client/releases/download/pack-mods/AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar"
     },
     {
@@ -175,8 +175,8 @@
     },
     {
       "path": "diegesis-fabric-1.21.1-1.0.0-beta.4.jar",
-      "size": 766718,
       "sha256": "6538e9bf7b0c0365cc798297a808f604dd891c1ab9840356da919352d37dcd86",
+      "size": 766718,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/diegesis-fabric-1.21.1-1.0.0-beta.4.jar"
     },
     {
@@ -217,8 +217,8 @@
     },
     {
       "path": "enchantments-plus-fabric-1.2.4+1.21.1-solar.jar",
-      "size": 462587,
       "sha256": "0a187d9d4eade61f0d2a8b4f78398d78035804fdc8d619d6a8afdadce6dc0472",
+      "size": 462587,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/enchantments-plus-fabric-1.2.4%2B1.21.1-solar.jar"
     },
     {
@@ -276,9 +276,15 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
     },
     {
+      "path": "FarmersDelight-1.21.1-3.3.6+refabricated.jar",
+      "sha256": "21a2cea22844ed58467b4f39f5bed3d1c1b47e5180e3c824c2e89f0c6edf1066",
+      "size": 3279959,
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/FarmersDelight-1.21.1-3.3.6%2Brefabricated.jar"
+    },
+    {
       "path": "FarmersDelight-1.21.1-3.3.6-original.jar",
-      "size": 3243316,
       "sha256": "c719a1e92f1e16f953265069afa9b5d52f2119b434e1f6e0ad4d7a1e449941dc",
+      "size": 3243316,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/FarmersDelight-1.21.1-3.3.6-original.jar"
     },
     {
@@ -349,8 +355,8 @@
     },
     {
       "path": "handson_delight-fabric-1.21.1-1.1.0.jar",
-      "size": 520195,
       "sha256": "7e56f4e4a6e2fc7181edefc836e6adf33ab6fdec07ab009184dd077c142ca9ff",
+      "size": 520195,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/handson_delight-fabric-1.21.1-1.1.0.jar"
     },
     {
@@ -504,12 +510,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/particle_core-0.3.3%2B1.21.jar"
     },
     {
-      "path": "PassiveSkillTree-Fabric-1.21.1-0.7.6+c.jar",
-      "sha256": "f6c525b87c4428342d59ae2f2a87b33930e4e826fd03e0293f02c4eaff768365",
-      "size": 2012644,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/PassiveSkillTree-Fabric-1.21.1-0.7.6%2Bc.jar"
-    },
-    {
       "path": "Ping-Wheel-1.12.2-fabric-1.21.1.jar",
       "sha256": "9ba63ca5f33c86d0ce3aec2b04fafcc2fbcb8e705e46a7be20ff66382331c3e3",
       "size": 152703,
@@ -523,8 +523,8 @@
     },
     {
       "path": "polytone-1.21-5.3.8-fabric.jar",
-      "size": 1818036,
       "sha256": "4ea58d550d34359a328a5e2d0547e70eddc17862e9ed0dec7cbf528a9c9470d4",
+      "size": 1818036,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/polytone-1.21-5.3.8-fabric.jar"
     },
     {
@@ -637,8 +637,8 @@
     },
     {
       "path": "solarauth-1.1.3.jar",
-      "size": 1563893,
       "sha256": "67d359051f66919a461a94d999f4d161e7f6f9339f86268899a3db3726ae29f8",
+      "size": 1563893,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.1.3.jar"
     },
     {
@@ -649,20 +649,20 @@
     },
     {
       "path": "solarcosmetics-1.4.8.jar",
-      "size": 6440762,
       "sha256": "50fd524a3bc06549c8ddba231852c4484719c21d8a421c28aff877ba318e85bc",
+      "size": 6440762,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarcosmetics-1.4.8.jar"
     },
     {
       "path": "solardiary-1.3.16.jar",
-      "size": 75551,
       "sha256": "c8586fcc6ea50e85bf36127ed943acbc6c2cca9bce004bd66b59d96a32e7d641",
+      "size": 75551,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solardiary-1.3.16.jar"
     },
     {
       "path": "solarhub-1.4.16.jar",
-      "size": 878426,
       "sha256": "e4928482280b53b280a40134e798e2c651fb0ea6d6c515348dd9bd4b819d4a8e",
+      "size": 878426,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.4.16.jar"
     },
     {
@@ -673,8 +673,8 @@
     },
     {
       "path": "solartitle-1.1.4.jar",
-      "size": 2836653,
       "sha256": "4a6b17ebe23c68786f649a191db964c34951c4b0978e9a63d0da73a183a75b4d",
+      "size": 2836653,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solartitle-1.1.4.jar"
     },
     {
@@ -691,14 +691,14 @@
     },
     {
       "path": "spdrug-bliss-compat-1.0.0.jar",
-      "size": 3077,
       "sha256": "9d73633a61bc3962d5d5e3c4f0a7616fd58e9b091ab06ebc84c1949360782364",
+      "size": 3077,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/spdrug-bliss-compat-1.0.0.jar"
     },
     {
       "path": "SPdrug-mod-1.9.10.jar",
-      "size": 391529,
       "sha256": "e9ac908da91b9ff851acffb9daf9a0da8bdbdc237341d8842bb2b060149e6838",
+      "size": 391529,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPdrug-mod-1.9.10.jar"
     },
     {
@@ -821,6 +821,5 @@
       "size": 587855,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
-  ],
-  "revision": 1794930203637
+  ]
 }
