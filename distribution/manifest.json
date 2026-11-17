@@ -216,6 +216,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
     },
     {
+      "path": "enchantments-plus-fabric-1.2.4+1.21.1-solar.jar",
+      "size": 462587,
+      "sha256": "0a187d9d4eade61f0d2a8b4f78398d78035804fdc8d619d6a8afdadce6dc0472",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/enchantments-plus-fabric-1.2.4%2B1.21.1-solar.jar"
+    },
+    {
       "path": "enderitemod-fabric-1.6.2-1.21.1.jar",
       "sha256": "05f377e39148c635b07bdda7e3bb4193f3a6e448e6db60468adeb36adcce77a2",
       "size": 508891,
@@ -358,12 +364,6 @@
       "sha256": "05a5f3c716ae631af3cc925c8144894368c632156f2d581dd8295cc223ea2f6d",
       "size": 336763,
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/ImmediatelyFast-Fabric-1.6.11%2B1.21.1.jar"
-    },
-    {
-      "path": "Incantationem-2.0.3+1.21.jar",
-      "sha256": "8f64305ec917ff4a696a10b025ef6e5f7e65acd0cca1850b584272f83d2786fc",
-      "size": 1178524,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/Incantationem-2.0.3%2B1.21.jar"
     },
     {
       "path": "InvMove-0.9.3+1.21.1-Fabric.jar",
@@ -822,5 +822,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1794892962961
+  "revision": 1794897416630
 }
