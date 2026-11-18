@@ -1,9 +1,9 @@
 {
   "version": "0.3.12",
   "notes": "Обновление через авто-загрузку SolarLauncher.exe.",
-  "setup_name": "SolarSetup.exe",
+  "setup_name": "SolarSetup-0.3.12.exe",
   "launcher_exe_name": "SolarLauncher-0.3.12.exe",
   "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.12.exe",
-  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup.exe",
+  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.12.exe",
   "release_page": "https://github.com/Steepinn/solar-s3-client/releases/tag/solar-launcher"
 }
