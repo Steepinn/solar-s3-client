@@ -72,10 +72,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/attributefix-fabric-1.21.1-21.1.2.jar"
     },
     {
-      "path": "BetterF3-11.0.3-Fabric-1.21.1.jar",
-      "sha256": "e0e4bb25fbe23b16b7574474ee9fde5cdc9757d05885bc43978f4ea5e8e258ad",
-      "size": 1810710,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/BetterF3-11.0.3-Fabric-1.21.1.jar"
+      "path": "BetterF3-11.0.3-Fabric-1.21.1-solar.1.jar",
+      "size": 1802798,
+      "sha256": "273a230adc9f07ab8165db326a93f32dba3aaa7a5367489b9429daf86a841530",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/BetterF3-11.0.3-Fabric-1.21.1-solar.1.jar"
     },
     {
       "path": "betterstats-3.13.9+fabric-1.21.jar",
@@ -840,5 +840,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795281411979
+  "revision": 1795281847244
 }
