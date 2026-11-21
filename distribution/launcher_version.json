@@ -1,9 +1,9 @@
 {
-  "version": "0.3.17",
-  "notes": "Исправлена загрузка Python DLL на других ПК. Установщик добавляет Solar в меню «Пуск».",
-  "setup_name": "SolarSetup-0.3.17.exe",
-  "launcher_exe_name": "SolarLauncher-0.3.17.exe",
-  "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.17.exe",
-  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.17.exe",
+  "version": "0.3.18",
+  "notes": "Исправлен автоматический перезапуск после обновления: новая временная папка Python создаётся независимо от старого процесса.",
+  "setup_name": "SolarSetup-0.3.18.exe",
+  "launcher_exe_name": "SolarLauncher-0.3.18.exe",
+  "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.18.exe",
+  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.18.exe",
   "release_page": "https://github.com/Steepinn/solar-s3-client/releases/tag/solar-launcher"
 }
