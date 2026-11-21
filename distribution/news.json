@@ -2,6 +2,15 @@
   "version": 1,
   "items": [
     {
+      "id": "news-d38258f8",
+      "date": "2026-11-21",
+      "tag": "совет",
+      "title": "TETS",
+      "body": "TEST",
+      "url": "",
+      "author": "Steepy3"
+    },
+    {
       "id": "news-73e12f20",
       "date": "2026-11-10",
       "tag": "совет",
