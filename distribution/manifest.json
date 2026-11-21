@@ -156,10 +156,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/Clumps-fabric-1.21.1-19.0.0.1.jar"
     },
     {
-      "path": "clumpyfart-1.0.5-solar.jar",
-      "size": 1254639,
-      "sha256": "0e24982e7ead19b08410705bbfd8b685f9da9a6970265dc9034abf03fe95f8f2",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/clumpyfart-1.0.5-solar.jar"
+      "path": "clumpyfart-1.0.5-solar-pranks.1.jar",
+      "size": 1157413,
+      "sha256": "42b3a6941eb289c73faabdf40e20a564751bffdcfc6a73670ee09354b1b1b934",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/clumpyfart-1.0.5-solar-pranks.1.jar"
     },
     {
       "path": "common-networking-fabric-1.0.21-1.21.1.jar",
@@ -840,5 +840,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795279173958
+  "revision": 1795281411979
 }
