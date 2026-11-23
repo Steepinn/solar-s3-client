@@ -1,11 +1,11 @@
 {
-  "version": "0.3.19",
-  "notes": "Обязательный вход и регистрация в лаунчере: ник, пароль, подтверждение и возраст. Запомнить меня. Аккаунты в приватном GitHub; вход через Radmin без Render. Исправлен выбор версии автообновления.",
-  "setup_name": "SolarSetup-0.3.19.exe",
-  "launcher_exe_name": "SolarLauncher-0.3.19.exe",
-  "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.19.exe",
-  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.19.exe",
-  "launcher_sha256": "ea7f2233b07377fd7575f00b09089a54929796e8e740e9b9cb25103d34f6b721",
-  "setup_sha256": "d0ed22c5f122744cd14700071105cc27735d49344933a83af39aad647d03fe0b",
+  "version": "0.3.20",
+  "notes": "Все кнопки лаунчера получили скруглённые края: вход, регистрация, главное меню, настройки, мастерская и диалоги.",
+  "setup_name": "SolarSetup-0.3.20.exe",
+  "launcher_exe_name": "SolarLauncher-0.3.20.exe",
+  "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.20.exe",
+  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.20.exe",
+  "launcher_sha256": "8f4c0a31db8360a5a0ad5b927aa96796d4aadc2a4ef97bcf8b478c453734a991",
+  "setup_sha256": "26638f36b7f76e890ffb1d3501fe6536618da066f802d49512b7d9078cdb91dd",
   "release_page": "https://github.com/Steepinn/solar-s3-client/releases/tag/solar-launcher"
 }
