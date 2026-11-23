@@ -1,9 +1,11 @@
 {
-  "version": "0.3.18",
-  "notes": "Исправлен автоматический перезапуск после обновления: новая временная папка Python создаётся независимо от старого процесса.",
-  "setup_name": "SolarSetup-0.3.18.exe",
-  "launcher_exe_name": "SolarLauncher-0.3.18.exe",
-  "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.18.exe",
-  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.18.exe",
+  "version": "0.3.19",
+  "notes": "Обязательный вход и регистрация в лаунчере: ник, пароль, подтверждение и возраст. Запомнить меня. Аккаунты в приватном GitHub; вход через Radmin без Render. Исправлен выбор версии автообновления.",
+  "setup_name": "SolarSetup-0.3.19.exe",
+  "launcher_exe_name": "SolarLauncher-0.3.19.exe",
+  "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.19.exe",
+  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.19.exe",
+  "launcher_sha256": "ea7f2233b07377fd7575f00b09089a54929796e8e740e9b9cb25103d34f6b721",
+  "setup_sha256": "d0ed22c5f122744cd14700071105cc27735d49344933a83af39aad647d03fe0b",
   "release_page": "https://github.com/Steepinn/solar-s3-client/releases/tag/solar-launcher"
 }
