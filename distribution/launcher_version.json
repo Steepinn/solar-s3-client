@@ -1,11 +1,9 @@
 {
-  "version": "0.3.21",
-  "notes": "Добавлен мягкий падающий снег на всех фонах лаунчера. Усилена защита занятых ников, включая регистр и одновременные регистрации.",
-  "setup_name": "SolarSetup-0.3.21.exe",
-  "launcher_exe_name": "SolarLauncher-0.3.21.exe",
-  "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.21.exe",
-  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.21.exe",
-  "launcher_sha256": "ca38b5d7ad84a6cd1dac9134b2dfcbd6e6de6e59729d6018753209ccb7b28fe3",
-  "setup_sha256": "258389ceb2cf45e7be1eaecf2990ba84573ffd23476b242189c59bc52954d741",
+  "version": "0.3.24",
+  "notes": "Усилен режим Low-End: 4 чанка прорисовки, 3 чанка симуляции и сниженная нагрузка визуальных эффектов.",
+  "setup_name": "SolarSetup-0.3.24.exe",
+  "launcher_exe_name": "SolarLauncher-0.3.24.exe",
+  "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.24.exe",
+  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.24.exe",
   "release_page": "https://github.com/Steepinn/solar-s3-client/releases/tag/solar-launcher"
 }
