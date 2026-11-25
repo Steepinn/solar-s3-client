@@ -714,6 +714,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPdrug-mod-1.9.12.jar"
     },
     {
+      "path": "SPshop-1.0.7.jar",
+      "size": 48945,
+      "sha256": "0dd745039e313b4bb6d670004f813e350c54b51c00548df738e4a90f6e68454e",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPshop-1.0.7.jar"
+    },
+    {
       "path": "structure_layout_optimizer-fabric-1.0.12.jar",
       "sha256": "38c4066ded870f21d60deeb2e05cb30d00d1db0f930c92f8fdd2f85098cb03fe",
       "size": 62580,
@@ -834,5 +840,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795572392870
+  "revision": 1795637903084
 }
