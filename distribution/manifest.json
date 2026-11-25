@@ -192,12 +192,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/diegesis-fabric-1.21.1-1.0.0-beta.4.jar"
     },
     {
-      "path": "display-delight-1.6.1-mc1.21.1.jar",
-      "sha256": "884ba595356bb6cbd500e3e8adb37ddb07d3f86c056545fdc9f1e1a27c4d375c",
-      "size": 1030507,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/display-delight-1.6.1-mc1.21.1.jar"
-    },
-    {
       "path": "DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
       "sha256": "914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865",
       "size": 11864952,
@@ -840,5 +834,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795567722616
+  "revision": 1795572238990
 }
