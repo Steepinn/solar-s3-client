@@ -666,10 +666,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarcosmetics-1.4.9.jar"
     },
     {
-      "path": "solardiary-1.3.15.jar",
+      "path": "solardiary-1.3.17.jar",
       "size": 75587,
-      "sha256": "945013646779705b62eb53780075358e629a7360251238e8aef737d0e6d4a374",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solardiary-1.3.15.jar"
+      "sha256": "55b5dcf17140f2ac40d66b8b127af1e62ba58020d1b6cd8bb92d434bbe091ec1",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solardiary-1.3.17.jar"
     },
     {
       "path": "solarfoodcompat-1.0.0.jar",
@@ -840,5 +840,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795567641395
+  "revision": 1795567722616
 }
