@@ -618,6 +618,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/smoothscroll-2.2.1-1.21.1.jar"
     },
     {
+      "path": "snappy_leaf_decay-0.2.0-1.21.1-fabric.jar",
+      "size": 78466,
+      "sha256": "d20e051a53c98de8ac004c39d94f48b8875a8acdeb51c95c62d315cb96d73e83",
+      "url": "https://mediafilez.forgecdn.net/files/9760/527/snappy_leaf_decay-0.2.0-1.21.1-fabric.jar"
+    },
+    {
       "path": "sodium-extra-fabric-0.9.3+mc1.21.1.jar",
       "sha256": "c99dfbfe2fe310aa43b322f784e3d314f574f85ba1c87dc932dbfa68f349bac1",
       "size": 469925,
@@ -840,5 +846,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795665858424
+  "revision": 1795674122437
 }
