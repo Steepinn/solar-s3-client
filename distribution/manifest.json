@@ -642,10 +642,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solar_ui_ru-1.0.24.jar"
     },
     {
-      "path": "solarauth-1.1.4.jar",
-      "size": 1563869,
-      "sha256": "eada90244d78d0363dae7a0586b016bc401185d4511822fd86d80dbb76f52ad3",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.1.4.jar"
+      "path": "solarauth-1.1.5.jar",
+      "size": 1566243,
+      "sha256": "1463c31de4a4c16c2bab7400f6cd68176088ea0c40295495abd687e396c7c428",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarauth-1.1.5.jar"
     },
     {
       "path": "solarbrbcompat-1.0.6.jar",
@@ -714,10 +714,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPdrug-mod-1.9.12.jar"
     },
     {
-      "path": "SPshop-1.0.8.jar",
-      "size": 51360,
-      "sha256": "69d126084d81792999a4f70e37ca6447a9d16574646709993dcab70f0012a662",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPshop-1.0.8.jar"
+      "path": "SPshop-1.0.9.jar",
+      "size": 53200,
+      "sha256": "4c59cb162baf247d7517cad57e2cf64dda1fe96a58ccc30ec049c9fe0e895ee1",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPshop-1.0.9.jar"
     },
     {
       "path": "structure_layout_optimizer-fabric-1.0.12.jar",
@@ -840,5 +840,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795654530646
+  "revision": 1795656238122
 }
