@@ -192,6 +192,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/continuity-3.0.0%2B1.21.jar"
     },
     {
+      "path": "copperagebackport-fabric-1.21.1-0.1.5.1-pre.jar",
+      "size": 2559163,
+      "sha256": "3fc87334b95f673d70e14ca3019694f819716206329b80cb048cb7e5538dd262",
+      "url": "https://cdn.modrinth.com/data/a1llHwl4/versions/ni0ndIxo/copperagebackport-fabric-1.21.1-0.1.5.1-pre.jar"
+    },
+    {
       "path": "CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
       "sha256": "a0813d3b342fae016eaad9b11a3f153efba01a2caa1221033adb865c49140f70",
       "size": 1247692,
@@ -882,5 +888,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795675602213
+  "revision": 1795675710239
 }
