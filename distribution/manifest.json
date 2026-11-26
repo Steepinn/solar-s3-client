@@ -72,6 +72,18 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/attributefix-fabric-1.21.1-21.1.2.jar"
     },
     {
+      "path": "bclib-21.0.13.jar",
+      "size": 1486843,
+      "sha256": "c1507799e31b55264197431f1b6139650303b430093c89bb0a2d9901740b5a7c",
+      "url": "https://cdn.modrinth.com/data/BgNRHReB/versions/TxWM7AW8/bclib-21.0.13.jar"
+    },
+    {
+      "path": "better-end-21.0.11.jar",
+      "size": 93380273,
+      "sha256": "b6300dad6b92eb5810008695e55b615f724b4d082a711c94f0d9941a1784cfd6",
+      "url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/4qhBEg6J/better-end-21.0.11.jar"
+    },
+    {
       "path": "BetterF3-11.0.3-Fabric-1.21.1-solar.1.jar",
       "size": 1802798,
       "sha256": "273a230adc9f07ab8165db326a93f32dba3aaa7a5367489b9429daf86a841530",
@@ -810,6 +822,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/wiretap-1.3.0%2B1.21.1.fabric.jar"
     },
     {
+      "path": "worldweaver-21.0.13.jar",
+      "size": 2364215,
+      "sha256": "2c408d36e70290b840faec12a963c4b3efb38391de3c87d73228d3ce76bf132d",
+      "url": "https://cdn.modrinth.com/data/RiN8rDVs/versions/mPmeykPR/worldweaver-21.0.13.jar"
+    },
+    {
       "path": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
       "sha256": "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1",
       "size": 1131265,
@@ -846,5 +864,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795674122437
+  "revision": 1795675535838
 }
