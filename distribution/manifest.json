@@ -708,10 +708,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/spdrug-bliss-compat-1.0.0.jar"
     },
     {
-      "path": "SPdrug-mod-1.9.13.jar",
-      "size": 396825,
-      "sha256": "7af5eafa39aff10a645f787dc0adbeaffdc55dd221b530d9c43cf0ea584cad9b",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPdrug-mod-1.9.13.jar"
+      "path": "SPdrug-mod-1.9.14.jar",
+      "size": 399539,
+      "sha256": "0bf3971932ab8b94faaf24a1a0b6e79395cda529b9f1daa9aeec2ccfaabaf781",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPdrug-mod-1.9.14.jar"
     },
     {
       "path": "SPshop-1.0.11.jar",
@@ -840,5 +840,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795663720390
+  "revision": 1795664089055
 }
