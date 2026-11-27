@@ -126,6 +126,18 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/cardinal-components-api-6.1.3.jar"
     },
     {
+      "path": "chalk-chars-1.0.1.jar",
+      "size": 102095,
+      "sha256": "a3c930da65953d4567c8ebf97bb55943dc6129d90419fb2ae10a39810a251f7b",
+      "url": "https://cdn.modrinth.com/data/YnpOJT0H/versions/xDozkIFm/chalk-chars-1.0.1.jar"
+    },
+    {
+      "path": "chalk-fabric-1.21.1-2.0.0.jar",
+      "size": 514298,
+      "sha256": "79f74fd4bc2710eb15c15ecb54bdc79f99d6d0c6beba9b0a2a4dd9c0adfcf09b",
+      "url": "https://cdn.modrinth.com/data/YWGP4Y1d/versions/Ae19CVOP/chalk-fabric-1.21.1-2.0.0.jar"
+    },
+    {
       "path": "chatanimation-fabric-1.3.1+mc1.21.jar",
       "sha256": "33e863348691c5d7094b938e23a81a7ef39a1e0c9fd3a029dcdcadc6e05a2033",
       "size": 397886,
@@ -624,6 +636,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/Resourcify%20%281.21.1-fabric%29-1.8.5.jar"
     },
     {
+      "path": "scholar-fabric-1.21.1-1.2.11.jar",
+      "size": 738806,
+      "sha256": "3a2095e5493ce8eb2d05320f4fe21606c93ef91223508beab1691bfbd764c4bd",
+      "url": "https://cdn.modrinth.com/data/fX4dIQCo/versions/JYIgDluu/scholar-fabric-1.21.1-1.2.11.jar"
+    },
+    {
       "path": "screenshotgallery-fabric-1.2.jar",
       "sha256": "3cc5e83d1946126b389205d21fa25f1c5ac8a1f2050b572f4741830f794cb76d",
       "size": 68791,
@@ -900,5 +918,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795746476391
+  "revision": 1795747158094
 }
