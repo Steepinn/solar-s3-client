@@ -180,10 +180,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/common-networking-fabric-1.0.21-1.21.1.jar"
     },
     {
-      "path": "connectiblechains-2.5.7+1.21.1.jar",
-      "sha256": "f2b98b471212fbef4d5ec4b3c26bb5b3c6f0a8d0db21f6993831a45a2f917754",
-      "size": 537471,
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/connectiblechains-2.5.7%2B1.21.1.jar"
+      "path": "connectiblechains-2.5.7+1.21.1-solar-ropefix.1.jar",
+      "size": 524900,
+      "sha256": "959043c7758b7689b18c959195ab2c70cc3d3bd059dc2792a498eb8eff6054fd",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/connectiblechains-2.5.7%2B1.21.1-solar-ropefix.1.jar"
     },
     {
       "path": "continuity-3.0.0+1.21.jar",
@@ -312,10 +312,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
     },
     {
-      "path": "FarmersDelight-1.21.1-3.3.6-original.jar",
-      "size": 3243316,
-      "sha256": "c719a1e92f1e16f953265069afa9b5d52f2119b434e1f6e0ad4d7a1e449941dc",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/FarmersDelight-1.21.1-3.3.6-original.jar"
+      "path": "FarmersDelight-1.21.1-3.3.6-original-solar-ropefix.1.jar",
+      "size": 3174519,
+      "sha256": "f799680e57037b0b773e5ea8b99427e0b7758671674e8e2c91ff64f1393cc24e",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/FarmersDelight-1.21.1-3.3.6-original-solar-ropefix.1.jar"
     },
     {
       "path": "fastquit-3.0.0+1.20.6.jar",
@@ -756,10 +756,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/spdrug-bliss-compat-1.0.0.jar"
     },
     {
-      "path": "SPdrug-mod-1.9.16.jar",
-      "size": 405091,
-      "sha256": "1aa755205b5119ff77926b65ca47e9e1441a720ac347268162ca50c13a1dc9ff",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPdrug-mod-1.9.16.jar"
+      "path": "SPdrug-mod-1.9.16-solar-ropefix.1.jar",
+      "size": 390907,
+      "sha256": "fd0e4cb6b9ba575c8154a88eea25a48d73135ed3594050b33dc895ef3cce005d",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/SPdrug-mod-1.9.16-solar-ropefix.1.jar"
     },
     {
       "path": "SPshop-1.0.11.jar",
@@ -894,5 +894,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795745339581
+  "revision": 1795745914986
 }
