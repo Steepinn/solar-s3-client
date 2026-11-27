@@ -1,11 +1,11 @@
 {
-  "version": "0.3.26",
-  "notes": "Исправлены запуск после автообновления, сохранение настроек и звуки интерфейса. Установщик проверяет WebView2.",
-  "setup_name": "SolarSetup-0.3.26.exe",
-  "launcher_exe_name": "SolarLauncher-0.3.26.exe",
-  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.26.exe",
-  "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.26.exe",
-  "setup_sha256": "c6f223f68ad0af56fcae245e23800022ffb284f82cb41d8806f874da9c829e92",
-  "launcher_sha256": "04485b2913c3e722daf5d381981ed9d0f519eb6f2c87b545a7e25586628e1d21",
+  "version": "0.3.27",
+  "notes": "Экран запуска показывает проверку обновлений, прогресс скачивания и установку. После обновления лаунчер автоматически перезапускается.",
+  "setup_name": "SolarSetup-0.3.27.exe",
+  "launcher_exe_name": "SolarLauncher-0.3.27.exe",
+  "download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarSetup-0.3.27.exe",
+  "launcher_download_url": "https://github.com/Steepinn/solar-s3-client/releases/download/solar-launcher/SolarLauncher-0.3.27.exe",
+  "setup_sha256": "7c50ae5ec533b3dba6265cdd6c20cea60a1302317456cfbf0542b4fc4f195408",
+  "launcher_sha256": "dfa7f1311e8cf225a7c0e033a207a8638f05af76b24c3384f004b6fd8f29ad01",
   "release_page": "https://github.com/Steepinn/solar-s3-client/releases/tag/solar-launcher"
 }
