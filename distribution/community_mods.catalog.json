@@ -1,9 +1,10 @@
 {
   "schema": 1,
-  "updated_at": 1794084980,
+  "updated_at": 1795751940,
   "items": [
     {
       "id": "01c38121",
+      "type": "mod",
       "name": "AKF Cinematics",
       "file": "afk-cinematics-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/afk-cinematics-1.21.1.jar",
@@ -17,6 +18,7 @@
     },
     {
       "id": "76eb1c5b",
+      "type": "mod",
       "name": "Armor Status мод",
       "file": "armorstatus-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/armorstatus-1.0.0.jar",
@@ -30,6 +32,7 @@
     },
     {
       "id": "3d6da7e2",
+      "type": "mod",
       "name": "Block Animations",
       "file": "stupid-block-animations-0.1.3+1.21.1-fabric.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/stupid-block-animations-0.1.3%2B1.21.1-fabric.jar",
@@ -45,6 +48,7 @@
     },
     {
       "id": "0761b405",
+      "type": "mod",
       "name": "Do a Barrel Roll",
       "file": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/do_a_barrel_roll-fabric-3.7.3%2B1.21.jar",
@@ -58,6 +62,7 @@
     },
     {
       "id": "55c187ce",
+      "type": "mod",
       "name": "Extra Sounds Mod V3 (Legacy)",
       "file": "extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/extrasounds-v3-legacy-3.0.1%2B1.21.11%2B1.14-build.3.jar",
@@ -71,6 +76,7 @@
     },
     {
       "id": "fed56777",
+      "type": "mod",
       "name": "FWA мод",
       "file": "fwa+1.21.1-1.2.31.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/fwa%2B1.21.1-1.2.31.jar",
@@ -84,6 +90,7 @@
     },
     {
       "id": "2ecf322b",
+      "type": "mod",
       "name": "Inventory Particles mod",
       "file": "InventoryParticles-3.0.0+1.21.1+fabric.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/InventoryParticles-3.0.0%2B1.21.1%2Bfabric.jar",
@@ -100,6 +107,7 @@
     },
     {
       "id": "44ab5931",
+      "type": "mod",
       "name": "Spatial GUI 1.5",
       "file": "spatial-gui-1.5+1.21.1-fabric-1.5.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/spatial-gui-1.5%2B1.21.1-fabric-1.5.jar",
@@ -113,6 +121,7 @@
     },
     {
       "id": "51b95209",
+      "type": "mod",
       "name": "Tiny Item Animations",
       "file": "tia-fabric-1.21-1.2.1.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/tia-fabric-1.21-1.2.1.jar",
@@ -126,6 +135,7 @@
     },
     {
       "id": "e8370408",
+      "type": "mod",
       "name": "Wakes MOD",
       "file": "wakes-0.4.1+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/wakes-0.4.1%2B1.21.1.jar",
@@ -135,6 +145,20 @@
       "added_at": 1791659855,
       "image": "",
       "auto_install": true,
+      "has_dependency": false
+    },
+    {
+      "id": "e4a89cd8",
+      "type": "mod",
+      "name": "new Better Dropped Items",
+      "file": "new-better-dropped-items-1.2.1-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/workshop-jars/new-better-dropped-items-1.2.1-1.21.1.jar",
+      "sha256": "0323d6ba203e97981d85a5326c685c858b31867af9ebb96aca12a0f94923e492",
+      "description": "Добавляет физику предметам которые вы выбросили.",
+      "recommended_by": "Steepy3",
+      "added_at": 1795751939,
+      "image": "",
+      "auto_install": false,
       "has_dependency": false
     }
   ]
