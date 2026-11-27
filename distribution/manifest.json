@@ -594,6 +594,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/ranged_weapon_api-fabric-2.3.3%2B1.21.1.jar"
     },
     {
+      "path": "redstonepen-1.21.1-fabric-1.11.43.jar",
+      "size": 511674,
+      "sha256": "ce0697527c9cdf6ac40ee9a066445315122d793dc26a933d779685204c6e4f18",
+      "url": "https://cdn.modrinth.com/data/DwE83ioX/versions/JcLfGDLR/redstonepen-1.21.1-fabric-1.11.43.jar"
+    },
+    {
       "path": "reeses-sodium-options-fabric-2.2.3+mc1.21.1.jar",
       "sha256": "6f5a2964656552da24e015b6f6e03d4baac8cfed919978785e94920f3fd0f568",
       "size": 259211,
@@ -894,5 +900,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795745914986
+  "revision": 1795746476391
 }
