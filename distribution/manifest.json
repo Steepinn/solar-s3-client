@@ -108,10 +108,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/bookshelf-fabric-1.21.1-21.1.8.jar"
     },
     {
-      "path": "bountiful-fabric-8.0.0-beta.2.jar",
-      "size": 739372,
-      "sha256": "1a57739485522babce2590149b78e7676e4efc0d44608b65c0f6672c9ec4f342",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/bountiful-fabric-8.0.0-beta.2.jar"
+      "path": "bountiful-fabric-8.0.0-beta.2-solar.1.jar",
+      "size": 726597,
+      "sha256": "bc6b1b55acfe575c1b292ce152d7f3b73abf1b5fe11e0a72bdebcc1c2d1c5567",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/bountiful-fabric-8.0.0-beta.2-solar.1.jar"
     },
     {
       "path": "brb-1.10.0-rc5+1.21.jar",
@@ -156,10 +156,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/cinematic_respawn-1.21.1-fabric-1.4.3.jar"
     },
     {
-      "path": "CinematicInteraction-0.12.2-solar.1-Fabric-1.21.1.jar",
-      "size": 818270,
-      "sha256": "a9cae82ae012839f9a25f0c32ada0cb93cc0b261933c2fa11264c1a6b5cb8042",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/CinematicInteraction-0.12.2-solar.1-Fabric-1.21.1.jar"
+      "path": "CinematicInteraction-0.12.2-solar.2-Fabric-1.21.1.jar",
+      "size": 815222,
+      "sha256": "76e5bc71914ff9b5e47d06a73386d521964bc232bba24afef5ab4fc26cd87904",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/CinematicInteraction-0.12.2-solar.2-Fabric-1.21.1.jar"
     },
     {
       "path": "click-through-0.1.0+1.21.jar",
@@ -606,10 +606,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/ranged_weapon_api-fabric-2.3.3%2B1.21.1.jar"
     },
     {
-      "path": "redstonepen-1.21.1-fabric-1.11.43.jar",
-      "size": 511674,
-      "sha256": "ce0697527c9cdf6ac40ee9a066445315122d793dc26a933d779685204c6e4f18",
-      "url": "https://cdn.modrinth.com/data/DwE83ioX/versions/JcLfGDLR/redstonepen-1.21.1-fabric-1.11.43.jar"
+      "path": "redstonepen-1.21.1-fabric-1.11.43-solar.1.jar",
+      "size": 505697,
+      "sha256": "04bfb74b4b1bb28ee51f6c1a2b4ec0a8029e52684fd4dda97b19ec86bbb656e3",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/redstonepen-1.21.1-fabric-1.11.43-solar.1.jar"
     },
     {
       "path": "reeses-sodium-options-fabric-2.2.3+mc1.21.1.jar",
@@ -918,5 +918,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795747158094
+  "revision": 1795750810052
 }
