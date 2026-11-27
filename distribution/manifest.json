@@ -780,6 +780,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/studious-keybinds-fabric-1.21.1-1.0.8-beta.1.jar"
     },
     {
+      "path": "supplementaries-fabric-1.21.1-3.7.7.jar",
+      "size": 13227079,
+      "sha256": "b89cb9059f4154b567c883f3c469b06b2e3d0d439beb1304a29e0f0abc30bcf9",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/ZeSGn7hN/supplementaries-fabric-1.21.1-3.7.7.jar"
+    },
+    {
       "path": "syncmatica-fabric-1.21-0.3.14-sakura.5.jar",
       "sha256": "90d7ecb611d612afc6cc0f83bfd144b38d5958228abc784969d773ce8e90294c",
       "size": 556458,
@@ -894,5 +900,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795717764563
+  "revision": 1795741122627
 }
