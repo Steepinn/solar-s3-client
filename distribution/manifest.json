@@ -84,12 +84,6 @@
       "url": "https://cdn.modrinth.com/data/zrGAe4X7/versions/4NnzCF9i/better-end-21.0.12.jar"
     },
     {
-      "path": "BetterF3-11.0.3-Fabric-1.21.1-solar.1.jar",
-      "size": 1802798,
-      "sha256": "273a230adc9f07ab8165db326a93f32dba3aaa7a5367489b9429daf86a841530",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/BetterF3-11.0.3-Fabric-1.21.1-solar.1.jar"
-    },
-    {
       "path": "betterstats-3.13.9+fabric-1.21.jar",
       "sha256": "c189ff0ca338d758948dd2c6c63152304235884fd7146b499212358762058d19",
       "size": 442117,
@@ -918,5 +912,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795818632968
+  "revision": 1795824552774
 }
