@@ -732,10 +732,10 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarfoodcompat-1.0.0.jar"
     },
     {
-      "path": "solarhub-1.4.21.jar",
-      "size": 888591,
-      "sha256": "f5b5012446ed208b13a8269e07ad3367b1906186d2ff2f11a49d19524b33999a",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.4.21.jar"
+      "path": "solarhub-1.4.22.jar",
+      "size": 907126,
+      "sha256": "5d1b5007e079010ad182b27099a864595246e840e8f85c6b19bfdd940a5b5260",
+      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/solarhub-1.4.22.jar"
     },
     {
       "path": "solartideocean-1.0.1.jar",
@@ -912,5 +912,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795824960837
+  "revision": 1795824981631
 }
