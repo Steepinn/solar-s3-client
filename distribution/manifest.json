@@ -150,12 +150,6 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/cinematic_respawn-1.21.1-fabric-1.4.3.jar"
     },
     {
-      "path": "CinematicInteraction-0.12.2-solar.2-Fabric-1.21.1.jar",
-      "size": 815222,
-      "sha256": "76e5bc71914ff9b5e47d06a73386d521964bc232bba24afef5ab4fc26cd87904",
-      "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/CinematicInteraction-0.12.2-solar.2-Fabric-1.21.1.jar"
-    },
-    {
       "path": "click-through-0.1.0+1.21.jar",
       "sha256": "489e25a163e3a1766c1b4896924c04a2f600ec0bc568c0643da4642e58d82221",
       "size": 46114,
@@ -840,6 +834,12 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/vcinteraction-fabric-1.21.1-1.0.8.jar"
     },
     {
+      "path": "VisualWorkbench-v21.1.1-1.21.1-Fabric.jar",
+      "size": 80510,
+      "sha256": "198e9b3e7a86718354319dadeb26df71cd4d55163f21b826baeb4ccafff54a1d",
+      "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/fGXmFJ8q/VisualWorkbench-v21.1.1-1.21.1-Fabric.jar"
+    },
+    {
       "path": "voicechat-fabric-1.21.1-2.6.12.jar",
       "sha256": "24950f92c4afdcbd39f1421320d9daa2261c074589885a41e88b8944462fc29a",
       "size": 5341263,
@@ -912,5 +912,5 @@
       "url": "https://raw.githubusercontent.com/Steepinn/solar-s3-client/main/distribution/pack-jars/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
     }
   ],
-  "revision": 1795824552774
+  "revision": 1795824960837
 }
